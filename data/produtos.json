@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "sku": "vin001",
+    "nome": "Vinho Tinto Reserva",
+    "preco": 79.90,
+    "imagem": "https://cdn.seudominio.com/produtos/vin001-thumb.jpg",
+    "descricao": "Cor rubi intenso, aroma de frutas vermelhas maduras, taninos macios e final duradouro."
+  }
+]
