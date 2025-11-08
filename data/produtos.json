@@ -1,10 +1,2054 @@
 [
   {
-    "id": 1,
-    "sku": "vin001",
-    "nome": "Vinho Tinto Reserva",
-    "preco": 79.90,
-    "imagem": "https://cdn.seudominio.com/produtos/vin001-thumb.jpg",
-    "descricao": "Cor rubi intenso, aroma de frutas vermelhas maduras, taninos macios e final duradouro."
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"QUEIJO DE BUFALA BURRATAS BOM DESTINO 120G\";\"22.9\";\"16.9\";\"queijo burrata 120 g 100 % QUEIJO DE BUFALA"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"QUEIJ0 GRANA PADANO 1KG GRANPARMA\";\"149.9\";\"123.9\";\"PRODUTO PESADO NO ATO DA COMPRA Mundialmente conhecido como o “Rei dos Queijos”"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"QUEIJO DE BUFALA MOZZARELLA BOM DESTINO\";\"22.9\";\"14.9\";\"queijo MUSSARELLA DE BUFALA 160 g 100 % QUEIJO DE BUFALA"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"QUEIJO BURRATA DIBUFALO 200 G\";\"29.9\";\"24.9\";\"QUEIJO BURRATA DIBUFALO COM CREME DE LEITE E FIOS DE MOZZARELLA .\";\"outro\";\"https://fibo.promokit.com.br/images/empresa/24f9cfa0-00d9-11f0-ae5c-035fb4fe4984.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO ALMA VIVA\";\"1899.9\";\"1499.9\";\"Os vinhos Almaviva são o resultado de uma parceria entre a Viña Concha y Toro"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"CABALLO LOCO NUMBER 21\";\"429.9\";\"359.9\";\"Vermelho violeta escuro. Aromas complexo e intenso com notas de cassis"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"CABALLO LOCO SAGRADA FAMILIA\";\"279.9\";\"189.9\";\"Aroma complexo de frutas negras e vermelhas seguidas de notas suaves de cedro e tabaco. Palato cremoso"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT CARMEN VINTAGES CABERNET\";\"109.9\";\"89.9\";\"Carmen Vintages Blend é um vinho icônico"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO CHILANO RED BLEND\";\"32.9\";\"17.9\";\"Vinho tinto elaborado com uma mistura de uvas"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT DON MELCHOR 2021\";\"1299.9\";\"999.9\";\"O Vinho Don Melchor 2019 é um verdadeiro ícone do Chile e não poderia ser menos"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO EPU\";\"429.9\";\"389.9\";\"COMPOSIÇÃO DA UVA: Cabernet Sauvignon (84%)"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO GANDOLINI CABERNET SAUVIGNON\";\"790\";\"679.9\";\"Stefano Gandolini se dedica a fazer um único vinho"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Marques de Casa Concha Heritage | 94 DES\";\"248.9\";\"199.9\";\"Criação de Marcelo Papa"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"MONTES ALPHA CABERNET SAUVIGNON\";\"179.9\";\"139.9\";\"Verdadeiro clássico da América do Sul"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO PURPLE ANGEL\";\"839.9\";\"749.9\";\"Purple Angel by Montes é um vinho chileno que surpreende. Rico em aromas de frutas negras"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT SANTA RITA CASA REAL CABERNET SAUVIGNON\";\"899.9\";\"799.9\";\"Santa Rita Casa Real Vinho Chileno. O vinho Santa Rita é produzido nos mais diversos tipos de terroirs chilenos"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO CABALLO LOCO LIMARI\";\"279.9\";\"189.9\";\"O Vinho Caballo Loco Grand Cru Limarí leva a assinatura da Viña Valdivieso"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO CABALLO LOCO MAIPO\";\"279.9\";\"189.9\";\"Sobre o vinho: Um Caballo Loco Grand Cru e safrado elaborado com os melhores frutos vindos do Vale de Maipo. O resultado é um tinto complexo"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT CASAS DEL TOQUI CABERNET SAUVIGNON\";\"79.9\";\"59.9\";\"A linha Gran Toqui da prestigiada vinícola chilena Casas del Toqui representa o vinho do Grande Chefe com exemplares imponentes"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO LA PIU BELLE\";\"389.9\";\"359.9\";\"O Vinho Tinto Vik La Piu Belle"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO VIK CABERNET SAUVIGNON\";\"899.9\";\"799.9\";\"VINHO VIK A CABERNET SAUVIGNON 750 ML. Vina Vik A Cabernet Sauvignon tem uma bela cor vermelho rubi. O nariz mostra aromas de frutas vermelhas e pretas"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT RENO CABERNET SAUVIGNON\";\"29.9\";\"22.99\";\"O vinho Reno inspira-se na rena"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO LE PETTIT CLOS\";\"399.9\";\"329.9\";\"O Clos Apalta é um projeto de vinhos de altíssima qualidade do renomado produtor Lapostolle. Em 1994 Alexandra Marnier-Lapostolle comprou um vinhedo formado predominantemente por vinhas antigas na região de Apalta"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"MONTES ALPHA CABERNET ED ESPECIAL CUVEE\";\"179.9\";\"149.9\";\"Verdadeiro clássico da América do Sul"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO METROPOLITANO CHARDONNAY\";\"39.9\";\"19.9\";\"Metropolitano"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO METROPOLITANO RED BLEND\";\"39.9\";\"19.9\";\"Metropolitano"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"FOYE GRAN RESERVA CARMENERE\";\"59.9\";\"39.9\";\"Com sua cor vermelha rubi e aromas de berries"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO CABALLO LOCO GRAND CRU PIRQUE\";\"279.9\";\"189.9\";\"Sobre o vinho: Um Caballo Loco Grand Cru e safrado elaborado com os melhores frutos vindos do Vale de Maipo. O resultado é um tinto complexo"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO CHILENO SIBARIS GRAN RESERVA CABERNET\";\"64.9\";\"49.9\";\"O Sibaris Gran Reserva DO Valle del Maule Cabernet Sauvignon é um vinho elegante e marcante"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO DIABLO CARMENERE\";\"69.9\";\"49.9\";\"Vinho Diablo Deep Carmenere 750Ml Adega: Concha y ToroMarca: DiabloLinha: DeepTipo de vinho: Tinto meio secoVarietal: CarmenreFormato de venda: UnidadeVolume da unidade: 750 mL\";\"tinto\";\"https://fibo.promokit.com.br/images/empresa/6389b150-3252-11ef-ad2b-a3fbbc5aa31c.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO DIABLO DARK RED\";\"69.9\";\"49.9\";\"Vinho Tinto Seco Concha y Toro Dark Red Diablo O Vinho Tinto Concha y Toro"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO LOTA CABERNETT SUAVGNON\";\"599.9\";\"499.9\";\"A vinícola Cousiño Macul está localizada em Peñalolén"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO SIDERAL\";\"299.9\";\"279.9\";\"Toda a intensidade aromática surpreende o paladar pela elegância com que passa pela língua. Um vinho macio em boca"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"GRAN RESERVA SAUVIGNON BLANC\";\"59.9\";\"49.9\";\"O Vinhedo Ucúquer"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO METROPOLITANO CABERNET\";\"39.9\";\"19.9\";\"Metropolitano"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"CASAS DEL TOQUI LEYENDA\";\"269.9\";\"249.9\";\"Leyenda é a linha ícone da prestigiada vinícola Casas del Toque elaborada com uvas provenientes do Alto Totihue"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO BRANCO MONTES ALPHA SAUVIGNON BLANC\";\"179.9\";\"139.9\";\"Delicioso"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO MAPU CABERNET SAUVIGNON\";\"29.9\";\"26.9\";\"Este vinho estagia em cubas durante um período relativamente curto de cerca de 6 meses"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO MAPU CARMENERE\";\"29.9\";\"26.9\";\"Este vinho estagia em cubas durante um período relativamente curto de cerca de 6 meses"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"CASILEIRO DEL DIABLO RED BLEND\";\"59.9\";\"49.9\";\"Casillero Del Diablo Reserva Red Blend não se trata de uma uva"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO CABALLO LOCO GRAND CURICÓ\";\"279.9\";\"189.9\";\"Notas de Prova: Destacam-se as frutas vermelhas"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO SANTA RITA 120 RSERVA ESPECIAL CARMENERE\";\"49.9\";\"33.9\";\"120 é uma marca com tradição e história"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO SANTA RITA 120 RSERVA ESPECIAL CABERNET\";\"49.9\";\"33.9\";\"120 é uma marca com tradição e história"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO SANTA RITA 120 RSERVA ESPECIAL DLIGHT\";\"49.9\";\"33.9\";\"120 é uma marca com tradição e história"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO SANTA RITA 120 RSERVA ESPECIAL SAUBIGNON BLANC\";\"49.9\";\"33.9\";\"120 é uma marca com tradição e história"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT ROCAS DE SENÑA\";\"499.9\";\"399.9\";\"Assinado por Eduardo Chadwick"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO ERRAZURIZ MAX VIII 150\";\"149.9\";\"99.9\";\"Vinho Chileno Errazuriz Max 8 Viñedos Tinto 750ml Principais Características do Produto: Safra: 2019 (sujeita a alterações conforme disponibilidade) Temperatura de Serviço: 16-18°C Teor Alcoólico: 14"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT SENÑA\";\"1499.9\";\"999.9\";\"Assinado por Eduardo Chadwick"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT VON SIEBENTHAL PARCELA #7\";\"189.9\";\"149.9\";\"VINHO VON SIEBENTHAL PARCELA #7 750 ML. O Blend Parcela #7 Gran Reserva surgiu entre cortes de Carbenet Sauvignon"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT MAFIA MERLOT\";\"89.9\";\"47.9\";\"O Vinho Chileno Tinto Merlot Mafia"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT MAFIA CABERNET SAUVIGNON\";\"89.9\";\"47.9\";\"Vinho Chileno Tinto Cabernet Sauvignon Mafia"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT MAFIA SYRAH\";\"89.9\";\"47.9\";\"Vinho Chileno Syrah é conhecida por produzir vinhos tintos intensos e cheios de personalidade. Esses vinhos apresentam sabores de frutas escuras"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT KIM SYRAH GRAN RESERVA\";\"109.9\";\"89.9\";\"Vinho chileno tinto elaborado com a uva Cabernet Sauvignon. Este rótulo é encorpado"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT MAYA CABERNET SAUVIGNON\";\"99.9\";\"49.9\";\"Desfrute de uma experiência sensorial única com o Vinho Chileno Tinto Cabernet Sauvignon Maya 750ml. Este vinho de alta qualidade é produzido a partir da prestigiada uva Cabernet Sauvignon"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT MAYA CARMENERE RESERVA\";\"99.9\";\"49.9\";\"Desfrute de uma experiência sensorial única com o Vinho Chileno Tinto Cabernet Sauvignon Maya 750ml. Este vinho de alta qualidade é produzido a partir da prestigiada uva Cabernet Sauvignon"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT KIM BLACK CARIGNAN\";\"99.9\";\"89.9\";\"Vinho chileno tinto elaborado com as uvas: Carmenere"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT MAFIA RESERVA CARMENERE\";\"59.9\";\"49.9\";\"O Vinho Chileno Tinto Carménère Mafia é uma excelente opção para os amantes de vinhos encorpados e com personalidade. Elaborado com uvas Carménère selecionadas"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO EPU 2021\";\"429.9\";\"369.9\";\"COMPOSIÇÃO DA UVA: Cabernet Sauvignon (84%)"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT CHADWICK\";\"3899.9\";\"3399.9\";\"O Vinho Tinto Chadwick é mais do que uma simples bebida"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO CHAC CHAC RESERVA TANNAT\";\"59.9\";\"49.9\";\"Chac Chac Reserva é a mais nova linha da renomada vinícola argentina Viña Las Perdices com vinhedos situados em Mendoza"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO ANUBIS MALBEC\";\"49.9\";\"42.9\";\"No caso de produtos safrados"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO CRIOS MALBEC\";\"69.9\";\"59.9\";\"Um Malbec fresco e com especiarias bastante groselhas"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO AMALAYA GRAN CORTE MALBEC\";\"149.9\";\"99.9\";\"O Amalaya Gran Corte Malbec encanta a todos como um notável vinho argentino"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO BARRABAS BY JUDAS CABERNET FRANC\";\"164.9\";\"159.9\";\"A linha Barrabas é um dos carros chefes da Bodega Sottano"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"DADA ART MALBEC\";\"39.9\";\"24.9\";\"A Finca Las Moras desenvolve vinhos para surpreender os seus sentidos. Desafiando o tradicional"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"DADA INCREDIBLENDS MALBEC\";\"49.9\";\"39.9\";\"Dada Incrediblends é o resultado da busca dos nossos enólogos para conseguir vinhos ousados e sensoriais para surpreender os sentidos. Neste exemplar foram combinadas duas variedades de origens diferentes que juntas são incríveis"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"FINCA LA DANIELA CABERNET SAUVIGNON\";\"39.9\";\"19.9\";\"Os vinhos de Finca La Daniela apresentam excelente corpo"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO AMALAYA MALBEC 750\";\"139.9\";\"89.9\";\"Onde outros veem um deserto"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO ALAMOS CABERNET SUAVIGNON\";\"159.9\";\"109.9\";\"Os vinhos Alamos são conhecidos por sua impressionante relação qualidade/preço"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO ALAMOS MALBEC\";\"159.9\";\"109.9\";\"O consagrado Alamos Malbec é um dos mais emblemáticos vinhos da Argentina. Seguindo a tendência mundial de vinhos mais gastronômicos e menos alcoólicos. A safra de 2022 é uma versão impressionantemente elegante"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Vinho tinto CHAC CHAC malbec\";\"59.9\";\"44.9\";\"VINHO CHAC CHAC MALBEC 750 ML Na Viña Las Perdices nos conectamos com a natureza através dos sentidos. Inspirado pelo som"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO CLOS DE LOS SIETE\";\"109.9\";\"69.9\";\"Clos de los Siete é uma vinícola renomada"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO ANUBIS RESERVA MALBEC\";\"59.9\";\"49.9\";\"Tem um tinto encorpado com sabores de frutas maduras"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"SOTTANO CHARDONNAY\";\"69.9\";\"44.9\";\"O Vinho Sottano Reserva Cabernet Sauvignon apresenta coloração vermelho. Mostra aromas de frutas vermelhas combinadas com aromas de especiarias e mentolados jogam harmoniosamente no nariz"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO SOTTANO RESERVA BLEND\";\"100.9\";\"79.9\";\"O Vinho Sottano Reserva malbec apresenta coloração com profunda cor violácea com lampejos pretos é entregada a primeira vez que vemos este vinho Mostra aromas aromas florais"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO BRANCO LA LINDA CHARDONNAY\";\"79.9\";\"49.9\";\"Os vinhos La Linda são elaborados pela vinícola argentina Bodega Luigi Bosca. A linha é composta por vinhos marcados pelo frescor e aromas predominantemente frutados"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO CHAC CHAC RESERVA MALBEC\";\"59.9\";\"49.9\";\"Chac Chac Reserva é a mais nova linha da renomada vinícola argentina Viña Las Perdices com vinhedos situados em Mendoza"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO HORMIGA NEGRA MALBEC\";\"39.9\";\"19.9\";\"Vinho tinto argentino"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT CAVA NEGRA\";\"32.9\";\"26.9\";\"Leve"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT JUDAS CABERNET\";\"379.9\";\"299.9\";\"Vinho Judas Uma antiga tradição familiar era elaborar esse item limitado para consumo exclusivo. Um membro da familia decidiu compartilhar com terceiros. Daí o nome dele. Delicie-se com essa tradição. Características: Maturação:24 meses em barricas de carvalho francês de primeiro uso. País: Argentina Safra: 2017 Teor alcoólico: 15"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT LUIGI BOSCA MALBEC DE SANDRE\";\"159.9\";\"139.9\";\"Principalmente Malbec"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO RICCITELLI MALBEC\";\"139.9\";\"129.9\";\"Riccitelli The Party Malbec 2021 é uma expressão vívida do Vale do Uco"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO ALA COLORADA CABERNET FRANK\";\"89.9\";\"74.9\";\"A variedade Cabernet Franc é de origem francesa e minoritária em Mendoza. Capaz de surpreender"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TTO LA LINDA PRIVATE SELECTION SMART BLEND\";\"79.9\";\"69.9\";\"O La Linda Private Selection Smart Blend é um vinho tinto argentino marcante"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO ALAMOS RED BLEND\";\"250\";\"109.9\";\"Reconhecida por seus vinhos varietais bastante saborosos"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO LA LINDA CABERNET\";\"79.9\";\"49.9\";\"Vinho Argentino Tinto Seco La Linda Cabernet Sauvignon Mendoza Garrafa 750ml\";\"tinto\";\"https://fibo.promokit.com.br/images/empresa/6d27ba00-4eb2-11ef-ad83-617cea8ca9e7.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO BRANCO LA LINDA TORRONTÊS\";\"79.9\";\"49.9\";\"O Finca La Linda Torrontés é um vinho produzido pela vinícola Luigi Bosca"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO ROSE LA LINDA\";\"79.9\";\"39.9\";\"Corpo: Médio Amadurecimento: Pouca presença de madeira Teor Alcoólico (%): 14 Tipo do Vinho: Tinto Região: Maipo Volume: 750 ml Sub-tipo: Tinto Teor de Açúcar: Seco Temperatura de Serviço (°C): 16 – 18 Uva: Malbec\";\"tinto\";\"https://fibo.promokit.com.br/images/empresa/2f428370-4eb5-11ef-bcab-db0f0f73ee32.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT LUIGI BOSCA CABERNET SAUVIGNON\";\"159.9\";\"129.9\";\"Principalmente Malbec"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT LUIGI BOSCA CABERNET FRANK\";\"159.9\";\"129.9\";\"Principalmente Malbec"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"FINCA LA DANIELA MALBEC\";\"39.9\";\"19.9\";\"Os vinhos de Finca La Daniela apresentam excelente corpo"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"ULTIMO NATIVO MALBEC 1"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO BARRABAS BY JUDAS BLEND\";\"164.9\";\"159.9\";\"A linha Barrabas é um dos carros chefes da Bodega Sottano"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VIHO TT PERRO CALLEJERO SAUVIGNON BLANC\";\"69.9\";\"39.9\";\"VINHO PERRO CALLEJERO BLEND SAUVIGNON BLANC 750 ML Características: Uva: Varietal Sauvignon blanc Volume:750 mL Origem Argentina Regiões Mendoza Não Graduação alcoólica 12 % Conservação do produto Temperatura ambiente Temperatura ideal de consumo 12 °C\";\"outro\";\"https://fibo.promokit.com.br/images/empresa/2e172610-cf5a-11ef-ab39-91e294b38daf.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT SALENTEIN RESERVA MALBEC\";\"109.9\";\"84.9\";\"A Bodegas Salentein nasceu pelo sonho de Mindert Pon"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT NORTON RESERVA MALBEC\";\"109.9\";\"79.9\";\"Vinho Norton Malbec D.O.C. Com mais de 125 anos de história"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT TOLENTINO J CATENA MALBEC\";\"79.9\";\"69.9\";\"Tolentino deu início à jornada desta família cheia de sonhos"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"FINCA LA DANIELA TEMPRANILLO\";\"39.9\";\"19.9\";\"Os vinhos de Finca La Daniela apresentam excelente corpo"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO NATURELLE TINTO SUAVE\";\"59.9\";\"44.9\";\"Vinho Naturelle Tinto Suave 750 ml Representa a história da Famiglia Valduga e o legado de gerações passadas. É um resgate do belo e simples. São as raízes mais profundas"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"ANTINORI TIGNANELLO\";\"2850\";\"1399.9\";\"Tignanello é"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO EDIZIONE CINQUE AUTOCTONI\";\"319.9\";\"289.9\";\"O Vinho Edizione 19 Cinque Autoctoni conquistou a pontuação máxima do crítico Luca Maroni"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO MAGMA PRIMITIVO DE MANDURIA DOP\";\"159.9\";\"139.9\";\"O Vinho Magma Primitivo di Manduria 2018 é um rótulo oriundo da Denominação de Origem Protegida (D.O.P.) Primitivo di Manduria"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT VIETTI BARBARESCO RONCAGILIE MASSERIA\";\"879.9\";\"799.9\";\"O Perbacco é produzido com uvas de vinhedos das terras calcário-argilosas da zona de Barolo (Bricco Boschis"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT ITALIANO CODICI MASSERIE PRIMITIVO DI MANDURA\";\"99.9\";\"94.9\";\"O Codici Masserie Primitivo di Manduria é um vinho da região de Manduria"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO SASSIACAIA SAFRA 2019\";\"3450\";\"2990.9\";\"Sassicaia é um ícone. O primeiro vinho com uvas francesas a ser classificado como supertoscano e a colocar Bolgheri definitivamente no mapa dos grandes vinhos. Mais do que isso"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO CUBARDI PRIMITIVO\";\"139.9\";\"109.9\";\"Este Primitivo é elaborado pela vinícola Schola Sarmenti"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT TARENI FRAPPATO\";\"59.9\";\"39.9\";\"Tareni é uma linha de vinhos jovens"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT LE SERRE NUOVE DELL ORNELLAIA\";\"749.9\";\"649.9\";\"Elaborado a partir das mesmas variedades"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT LE VOLTE DELL ORNELLAIA\";\"350\";\"279.9\";\"Vinho equilibrado de grande charme"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT CAPRILLI BRUNELLO DI MONTALCINO\";\"448.9\";\"399.9\";\"Uma das melhores versões já produzidas deste clássico. Lindo no aroma"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT PICCINI ROSSO TOSCANA\";\"59.9\";\"39.9\";\"Desde 1882"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT PICCINI CHIANTI DOCG\";\"69.9\";\"49.9\";\"Desde 1882"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO BRANCO PERA MANCA\";\"899.9\";\"789.9\";\"Vinho Pera Manca Branco 750 ml. Coloração citrina. Muito bom aroma com notas minerais"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO SILK E SPICE\";\"83.9\";\"74.9\";\"Vinho Silk & Spice 750 ml. As uvas seleccionadas para o Silk & Spice são provenientes das regiões do Dão"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO BRANCO ARCO DA TORRE\";\"59.9\";\"48.9\";\"A forte componente aromática do Viognier bem presente e o corpo e frescura que Antão Vaz e Arinto doam respetivamente fazem deste um blend muito equilibrado. A madeira sem estar marcada com leves notas tostadas e o aroma predominante a fruta como o pêssego ou o damasco e ainda a frescura dos citrinos como a tangerina fazem deste vinho um autêntico amigo à mesa. Vinho que pode ser guardado em cave durante\";\"branco\";\"https://fibo.promokit.com.br/images/empresa/f3e73c20-1c6f-11ef-8067-a1b2ceeb4b9e.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHHO TINTO PORTA 6 RESERVA 2021\";\"89.9\";\"79.9\";\"Porta 6 Reserva Tinto Vinho Português. O vinho Porta 6 Reserva apresenta coloração rubi brilhante"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO EA CARTUXA TINTO\";\"79.9\";\"64.9\";\"O Vinho Cartuxa EA Tinto 2020 foi lançado pela primeira vez em 1992 e"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO VERDE GATÃO c LATA DE 250 ML\";\"69.9\";\"42.9\";\"Fundada em 1884"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO CARTUXA COLHEITA EVORA 2019\";\"289.9\";\"249.9\";\"Descubra o segredo que faz do Cartuxa Évora Colheita 2017 uma lenda no mundo dos vinhos: uma combinação perfeita de tradição"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO Tinto ARCO DA TORRE\";\"59.9\";\"48.9\";\"Feito a partir das castas Cabernet Sauvignon"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO JULIA FLORISTA PORTUGUES\";\"44.9\";\"29.9\";\"Júlia Florista (1883-1925): Florista e fadista espontânea com uma natureza bairrista e boémia"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO PORTUGUES PORTA 6\";\"59.9\";\"42.9\";\"Um vinho tinto inegavelmente português. Seu rótulo divertido foi desenvolvido por Hauke Vagt"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO LOLITA\";\"69.9\";\"54.9\";\"A história da Vicente Faria prolonga-se por 7 gerações"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT BARRICADO\";\"49.9\";\"32.99\";\"Produzido pela renomada Casa Relvas"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO PEQUENO PINTOR\";\"89.9\";\"69.9\";\"Este vinho de cor granada possui um aroma concentrado de compotas de frutas negras e especiarias"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO ALENTEJO DOC\";\"54.9\";\"49.9\";\"Casa Relvas está no agronegócio há 5 gerações. O projeto familiar iniciou em 1997 quando Alexandre Relvas adquiriu a Herdade de São Miguel"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO PERA MANCA\";\"4350.9\";\"3499.9\";\"Vinho Pera Manca tinto Coloração citrina. Muito bom aroma com notas minerais"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO BRANCO HERDADE DE SÃO MIGUEL\";\"69.9\";\"54.9\";\"A Casa Agrícola Alexandre Relvas é composta pela Herdade de São Miguel e pela Herdade da Pimenta. A Herdade de São Miguel tem como objetivo a produção de vinhos de qualidade em diferentes linhas que possam refletir a qualidade e o rigor do trabalho"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT SCALA COELI RESERVA\";\"1189.9\";\"949.9\";\"Vinho Scala Coeli (750ml) Origem: Portugal Descrição: Scala Coeli apresenta-se com um aroma muito delicado"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO CARTUXA COLHEITA 5 LITROS\";\"1499.9\";\"1399.9\";\"Coloração Granada. Aroma evoluído"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO BONS VENTOS DOURO\";\"44.9\";\"42.9\";\"Tipo: Tinto Classificação: Seco Safra: 2018 Uva:Touriga Nacional"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT TECEDEIRAS LILÁS\";\"89.9\";\"69.9\";\"VINHO TECEDEIRAS LILAS DOURO 750 ML. Degustar um vinho"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO BCO LOLITA\";\"69.9\";\"54.9\";\"\"\"Lolita\"\" é um apelido carinhoso para meninas com o nome de \"\"Glória\"\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO BCO MULA VELHA\";\"44.9\";\"39.9\";\"O Mula Velha"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO BCO REGIA COLHEITA DOC ALENTEJO\";\"99.9\";\"89.9\";\"Tipo: Vinho Tinto Uvas: Alicante Bouschet"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT ROLA GRANDE RES TOURIGA NACIONAL\";\"209.9\";\"179.9\";\"De cor rubi. Neste vinho destacam-se os aromas a fruta preta e fruta vermelha complementados por alguma baunilha e alcatrão. No palato mostra-se a fruta vermelha"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT PACHECA CAIS DA RIBEIRA\";\"79.9\";\"59.9\";\"Entre os vales do rio Douro"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO BCO PACHECA CAIS DA RIBEIRA\";\"79.9\";\"59.9\";\"Entre os vales do rio Douro"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"CAIS DA RIBEIRA TAWNY\";\"219.9\";\"199.9\";\"Com tradição que ultrapassa séculos"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"LE PETIT COCHONNET I.G.P. PAYS DOC CHARDONNAY 2021\";\"59.9\";\"39.9\";\"Le Petit Cochonnet é uma linha de vinhos feita pela vinícola Vignobles & Compagnie criada para expressar toda a modernidade e o estilo jovem que a região francesa do Languedoc-Roussillon"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO ROSE PISCINE\";\"79.9\";\"59.9\";\"Corpo: Leve ou Amadurecimento: Estagia em tanques de aço inox durante um período de seis meses. Teor Alcoólico (%): 11 Tipo do Vinho: Rosé Região: Sudoeste Volume: 750 ml Teor de Açúcar: Suave Temperatura de Serviço (°C): 8 – 10 Uva: 100% Négrette imagens ilustrativas"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO LE PETIT COCHONNET CABERNET SAUVIGNON\";\"59.9\";\"39.9\";\"O rótulo descontraído e moderno retrara o perfil deste tinto elaborado no sul da França. Amadurecido apenas em tanques de aço inox"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Vinho Terani cachors reserva Chardonnay\";\"49.9\";\"39.9\";\"O Tarani é a primeira marca conhecida desde o ínicio da era critão. Foi encontrados anfôras em um sítio arqueológico em Montans (perto de Gaillac). Tarani cria a ligação entre a legitimidade histórica e o gosto moderno. País: França Região: Sud-Ouest (Cahors) Produtor: Vinovalie Tipo: Branco Uva: 100% Chardonnay Teor Alcoólico: 13"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO CHEVAL DES ANDES\";\"579.9\";\"499.9\";\"Este rótulo é considerado um verdadeiro Grand Cru argentino"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO SOLAIA RESERVA 1990\";\"8000\";\"6750\";\"Solaia é um vinho mítico"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO BRANCO CHABLIS LOUIS LATOUR\";\"309.9\";\"299.9\";\"Chablis é uma “ilha” de vinhedos isolada na porção mais ao norte da Borgonha"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT MARQUIS DE CHASSE BORDEAUS\";\"69.9\";\"39.9\";\"Maison Ginestet é uma empresa especializada em vinhos finos de Bordeaux"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO FRISANTE CRAZY BULLES ROSE\";\"69.9\";\"39.9\";\"Cor rosa pálido com reflexos salmão. o nariz é fresco e aromático"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO FRISANTE BCO CRAZY TROPEZ VIN DE FRANCE\";\"69.9\";\"39.9\";\"é expressivo e aromático no nariz com notas de frutos exóticos e ligeiros toques florais Paladar: Maravilhosamente frutado no paladar"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT ALBERT BICHOT MERCUREY\";\"269.9\";\"199.9\";\"O nome de Mercurey refere-se a um antigo templo construído pelos romanos para homenagear o deus Mercúrio. Com sua área de superfície de 1.600 acres"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT CHATEAU LAFITE ROTHSCHILD 1865\";\"11500\";\"10350\";\"Um dos vinhos mais famosos do mundo"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT BONNES MARES GRAND CRU D G ROUMIER 1997\";\"12000\";\"10925\";\"Nossos especialistas em vinhos acham que este vinho Burgundy Côte de Nuits tinto harmonizaria maravilhosamente com estes pratos. Bon appétit!\";\"tinto\";\"https://fibo.promokit.com.br/images/empresa/0fb9ab30-0401-11f0-90df-e3bb7596f3c6.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO SOLAIA RESERVA 1988\";\"8000\";\"6999.9\";\"Solaia é um vinho mítico"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT ORNELLAIA 1997\";\"5500\";\"4485\";\"Ornellaia é uma mistura de natureza e reflexão. Solos antigos complexos conversam por meio da sabedoria humana com um microclima delicado que ecoa e se reflete no Mar Mediterrâneo. O envelhecimento prolongado acompanha o vinho fino da propriedade para atingir sua expressão máxima"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT ECHEZEAUX GRAND CRU D MUGNERET GIBOURG 2004\";\"7300\";\"6959.9\";\"Nossos especialistas em vinhos acham que este vinho Burgundy Côte de Nuits tinto harmonizaria maravilhosamente com estes pratos. Bon appétit\";\"tinto\";\"https://fibo.promokit.com.br/images/empresa/1f714570-0405-11f0-84df-3b9e1c37419b.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT BONNES MARES GRAND CRU ROBERT GORFIIER 2001\";\"7000\";\"5750\";\"O vinho tem textura fina"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT CHAMBOLLE MUSIGNY 1ª ER JACQUES FRÉDÉRIC MUGNIER 1996\";\"25000\";\"23500\";\"Nossos especialistas em vinhos acham que este vinho Burgundy Côte de Nuits tinto harmonizaria maravilhosamente com estes pratos. Bon appétit!\";\"tinto\";\"https://fibo.promokit.com.br/images/empresa/032bb190-0408-11f0-90df-e3bb7596f3c6.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO CLOS DE LA ROCHE GRAND CRU HUBERT LIGNIER 2001\";\"9000\";\"8400\";\"Os vinhos são sempre bem coloridos"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT MONTRACHET GRAND CRU DOMAINE RAMONET 1988\";\"39500\";\"36800\";\"Este ainda é muito fechado e jovem. Energia e poder maravilhosos. Nariz muito"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT VOSNE ROMANÉE 1º ER EMMANUEL ROUGET\";\"37000\";\"34500\";\"Nossos especialistas em vinhos acham que este vinho Burgundy Côte de Nuits tinto harmonizaria maravilhosamente com estes pratos. Bon appétit!\";\"tinto\";\"https://fibo.promokit.com.br/images/empresa/acf8b590-040a-11f0-a6b9-1f9459ba6b11.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT VOSNE ROMANÉE 1º ER D MEO CAMUZET\";\"37000\";\"34500\";\"Há muita finesse e elegância neste vinho"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT RICHEBOURG GRAND CRU HUDELOT NOELLAT\";\"17000\";\"14950\";\"Domaine Hudelot-Noellat é um produtor icônico na Côte de Nuits. O estilo do Domaine é definido pela elegância e pureza. O vinhedo de Romanée-Saint-Vivant é plantado com as vinhas mais antigas do Domaine que datam de 1920. Este vinhedo tende a produzir vinhos mais encorpados e ricos do que o Romanée St-Vivant"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO BCO LA CROISADE CHARDONNAY\";\"69.9\";\"49.9\";\"Descubra o Vinho Branco Francês La Croisade Chardonnay"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO ROSE CLAUDEVAL VENDANGES\";\"89.9\";\"44.9\";\"O Claude Val Rosé é um vinho rosé francês de excelente custo-benefício"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO CONVENTO OREJA ROBLE\";\"105.9\";\"99.9\";\"Convento Oreja conta com 30 hectares de vinhedos de 35 anos de idade média. Se baseia na elaboração de apenas partidas limitadas com as enormes possibilidades da Tinta del Pais (Tempranillo)"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Alión Ribera del Duero D.O 2017\";\"1550\";\"1165.98\";\"Alión vem de uma seleção cuidadosa de terroirs das melhores áreas de Ribera del Duero D.O - Verdadeiro clássico da Espanha"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT MACAN\";\"1156.9\";\"1069.9\";\"Macan 2015 - Vega Sicilia Vinho Espanhol Macán é uma visão moderna e pessoal do vinhedo de alto perfil e máxima qualidade do Rioja DOC. Promete requinte"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"PETIT VEGA 28 MESES 750ML\";\"289.9\";\"239.9\";\"Corpo: Encorpado Amadurecimento: 28 meses em barrica de carvalho francês e mais 18 meses em garrafa. Teor Alcoólico (%): 14 Tipo do Vinho: Tinto Região:Ribera del Duero Volume: 750 ml Sub-tipo: Tinto Teor de Açúcar: Seco Temperatura de Serviço (°C): 16 – 18 Uva:100% Tempranillo\";\"tinto\";\"https://fibo.promokit.com.br/images/empresa/e7120820-dc7f-11ee-8a57-493340403a18.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VEGA SICILLIA UNICO 2010\";\"7890.99\";\"6448.9\";\"Descubra a grandiosidade do Valbuena 5º Año"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT PETIT VEGA 18 Meses 750 ml\";\"149.9\";\"114.9\";\"Corpo: Encorpado Amadurecimento: 18 meses Teor Alcoólico (%): 14 Tipo do Vinho: Tinto Região: Ribera Del Duero Volume: 750 ml Sub-tipo: Tinto Teor de Açúcar: Seco Temperatura de Serviço (°C): 16 Uva: 100% Tempranillo\";\"tinto\";\"https://fibo.promokit.com.br/images/empresa/abde47e0-dc80-11ee-b6bf-95b889d0a534.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO KNOCK KNOK RED BLEND\";\"49.9\";\"24.9\";\"Vinho tinto de Valencia"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT CASTILLO YGAY RIOJA\";\"2499.9\";\"2364.9\";\"Ícone da vinícola Marqués de Murrieta"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT LOCO BARBER\";\"39.9\";\"24.9\";\"Notas do Sommelier O vinho tinto espanhol Loco Barber Garnacha Tinta é um vinho produzido na região de Navarra"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"ESPUMANTE GRAN LEGADO\";\"49.9\";\"29.9\";\"O Espumante Gran Legado é um vinho brasileiro produzido na região do Vale dos Vinhedos"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"ESPUMANTE GRAN LEGADO ROSE\";\"49.9\";\"29.9\";\"O Espumante Gran Legado Rose é um vinho espumante com coloração rosa claro e reflexos laranjados. No paladar"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT CLIO\";\"689.9\";\"479.9\";\"Vermelho cereja fortemente coberto com borda granada. Nariz intenso de frutos maduros"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO CARNIVOR ZINFANDEL\";\"99.9\";\"79.9\";\"VINHO CARNIVOR ZINFANDEL 750 ML O Vinho Carnivor Zinfandel apresenta coloração rubi. Mostra aromas de frutas negras maduras"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO MENAGE A TROIS DARK RED BLEND\";\"109.9\";\"99.9\";\"Para este Ménage à Trois"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO MENAGE A TROIS CABERNET SAUVIGNON\";\"104.9\";\"99.9\";\"Fruto da paixão de um casal de arquitetos"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO COPPOLA DIMOND COLLECTION CABERNET SAUVIGNON\";\"309.9\";\"229.9\";\"Encorpado e intenso"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO COPPOLA DIMOND COLLECTION MERLOT\";\"309.9\";\"229.9\";\"Tinto rico e concentrado. O equilíbrio perfeito entre a exuberância das frutas e as delicadas notas tostadas"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO COPPOLA DIMOND COLLECTION ZINFANDEL\";\"309.9\";\"179.9\";\"é um vinho tinto da Califórnia"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT APOTHIC CABERNET SAUVIGNON\";\"109.9\";\"84.9\";\"Produzido no terroir californiano"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"MENAGE A TROIS GOLD\";\"104.9\";\"99.9\";\"Fruto da paixão de um casal de arquitetos"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT MASTER E SERVANT CABERNET\";\"599.9\";\"499.9\";\"Composto por 95% Cabernet Sauvignon e 5% Merlot"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT VIN PENFOLDS GRANGE BIN 95 1982\";\"12000\";\"10350\";\"Vinho Penfolds Grange Bin 95 Shiraz 750 ml. A autêntica e mais poderosa expressão da filosofia vitivinícola da Penfolds – blends de múltiplos vinhedos e distritos - o Grange é o vinho mais famoso da Austrália e está oficialmente listado como Ícone do Patrimônio de South Australia. Produzido com Shiraz plenamente maduras"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT MATAOJO TANNAT RESERVA\";\"139.9\";\"89.9\";\"Aromaticamente"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO BCO MATAOJO ALBARINO\";\"119.9\";\"89.9\";\"O Albariño encontrou novo terreno entre as montanhas de Lavalleja onde se manifesta em todo o seu potencial"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"ESPUMANTE HENKELL TROCKEN DEMI SEC\";\"69.9\";\"44.9\";\"Fundada em 1832"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT HERMON GALILEE RED WINE\";\"89.9\";\"79.9\";\"O Mount Hermon Red exibe atraentes caracteres de cereja e frutos silvestres"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"ESPUMANTE CHANDON BRUT\";\"89.9\";\"79.9\";\"Caracteriza-se por sua delicada cor amarela com reflexos dourados"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"ESPUMANTE UNDURRAGA BRUT\";\"49.9\";\"29.9\";\"Elaborado pelo método Charmat"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"FREIXENET CARTA NEVADA\";\"99.9\";\"64.9\";\"Cava elaborado pelo método tradicional"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"ESPUMANTE LIRICA CRUA ROSE\";\"96.9\";\"49.9\";\"Versão Rosé do aclamado Lírica Crua. Exibe cor rosa pálido"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"CHAMPAGNE CHANDON PASSION ON ICE\";\"94.9\";\"84.9\";\"Chandon Passion tem uma personalidade única e intensa"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"CHAMPAGNE MOET CHANDON BRUT IMPERIAL\";\"489.9\";\"369.9\";\"Champagne branco brut seco"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"ESPUMANTE GARIBALDI MOSCATEL\";\"59.9\";\"34.9\";\"Visual Coloração clara com reflexos esverdeados e aspecto brilhante com ótima formação de perlage. Olfato Aromas com notas de melão"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"ESPUMANTE GARIBALDI PROSECCO ROSE\";\"59.9\";\"34.9\";\"Espumante Natural Rosé Brut elaborado pelo método Charmat. Coloração rosé delicada com perlage fino"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"ESPUMANTE CASA PERINE VINTAGE LIQUEUR\";\"89.9\";\"74.9\";\"Elaborado com as uvas moscatéis da região da Indicação de Procedência da Farroupilha"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"ESPUMANTE CASA VALDUGA BLANC DE NOIR BRUT\";\"199.9\";\"168.9\";\"Elaborado exclusivamente com uvas Chardonnay de safras especiais"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"ESPUMANTE CASA VALDUGA 130 BRUT\";\"139.9\";\"119.9\";\"Elaborado exclusivamente com uvas Chardonnay de safras especiais"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"CHAMPAGNE DOM PERIGNON BRUT 750\";\"1899\";\"1599.9\";\"Champagne branco para aguçar os melhores paladares! Comemore"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"CHAMPAGNE VEUVE CLICQUOT BRUT\";\"399.9\";\"379.9\";\"Veuve Clicquot Brut é uma champagne De coloração amarelo claro"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"CHAMPAGNER VEUVE CLICOT ROSE\";\"519.9\";\"399.9\";\"Champagne Veuve Clicquot Rosé 750ml Em 1805"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"CHAMPAGNE PERRIE JOUET BRUT\";\"399.9\";\"379.9\";\"Uma bebida para ser degustada por refinados paladares e amantes de champagne. Com leve presença de frutas exóticas e flores"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"CHAMPGNE RUIMART ROSE\";\"649.9\";\"599.9\";\"A maison mais antiga de Champagne"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"WHISKY BALLANTINES 17 ANOS\";\"350.9\";\"269.9\";\"Scotch Whisky envelhecido em barris de carvalho por pelo menos 17 anos. Seu paladar tem toques especiais de mel"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Chivas 25 anos\";\"3509\";\"3290.9\";\"Whisky Chivas Regal 25 anos Original é um blend raro e exclusivo dos melhores whiskies escoceses"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"WISKY JACK DANIEL´S SINATRA\";\"689.9\";\"599.9\";\"O Whisky Jack Daniel’s sempre foi uma das bebidas favoritas do grande nome da música Frank Sinatra. Para celebrar essa lendária amizade Jack Daniel’s lança o blend especial “Sinatra Select”. Um blend envelhecido em barris especiais para criar uma bebida com uma rica cor âmbar um paladar exclusivo e suave. Um whiskey que reflete a personalidade audaz e clássica de Frank Sinatra.\";\"whisky\";\"https://fibo.promokit.com.br/images/empresa/1d7cc940-fc29-11ee-8a5b-99f10d0cb82e.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"ROYAL SALUT 21 ANOS AZUL 700 ML\";\"1076\";\"799.9\";\"Criado em homenagem à coroação da Rainha Elizabeth II em 1953"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"WISKY MACALLAN 18 ANOS DOUBLE CASK\";\"2990.9\";\"2390\";\"O Whisky 18 Years Old Double Cask The Macallan possui aromas de bolo de laranja"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"WHISKY ABERLOUR 14 ANOS DOUBLE CASK\";\"399.9\";\"369.9\";\"Whisky Aberlour 14 Anos 700ml - Single Malt. Aberlour foi fundada em 1879 na cidade de mesmo nome por James Flemming"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"WHISKY AME EAGLE RARE 750 ML\";\"229.9\";\"199.9\";\"Whisky ame eagle\";\"whisky\";\"https://fibo.promokit.com.br/images/empresa/a98e7250-0e42-11ef-98bb-1db98a37e2d5.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"WHISKY BALLANTINES 10 ANOS\";\"149.9\";\"99.9\";\"Um whisky escocês envelhecido por 10 anos em barris de carvalho americano"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"WHISKY BUCHANAN S 1 litro\";\"189.9\";\"179.9\";\"Whisky Buchanan's foi criado há mais de um século atrás por James Buchanan. Em 1879"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"WHISKY CHIVAS REGAL 12 ANOS 1 LITRO\";\"139.9\";\"129.9\";\"Para chivas"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"WHISKY GRANTS\";\"61.9\";\"54.9\";\"O Grant's é um whisky extraordinário"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"WHISKY JAMESON 750 ML\";\"109.9\";\"89.9\";\"Whisky Jameson 750 Ml O Jameson Whiskey é uma mistura de cevada malteada e não malteada que é destilada três vezes"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"WHISKY JOHNNIE WALKER BLACK LABEL 1 LT\";\"259.9\";\"189.9\";\"Whisky Johnnie Walker Black Label 12 anos Johnnie Walker Black Label é um verdadeiro ícone"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"WHISKY MACALLAN 12 ANOS DOBLLE CASK\";\"789.9\";\"699.9\";\"O Macallan 12 anos Double Cask foi envelhecido em uma combinação 2 tipos de carvalho sendo de barris de carvalho americano ex-xerez e europeu ex-xerez. Este é um uísque rico que combina frutas cítricas e caramelo com gengibre picante e noz-moscada. Uma excitante nova expressão de declaração de idade da Macallan que é amadurecida em uma combinação de carvalho Sherry americano e europeu por um período mínimo de 12 anos. Aqui"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"WHISKY WOODFORD RESERVE BOUBON 750 ML\";\"249.9\";\"199.9\";\"Woodford Reserve é um Bourbon de extrema qualidade! Casa fundada em 1797 por Elijah Pepper"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"JOHNNIE WALKER RED LABEL\";\"149.9\";\"89.9\";\"Whisky Johnnie Walker Red Label 1000 ml. É um Blend Scotch Whisky rico e incorporado. Tem uma seleção inigualável de mais de 35 maltes na sua composição que garantem a sua superioridade. Com aroma doce amadeirado"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"WHISKY JOHNNIE WALKER GOLD LABEL RESERVE\";\"289.9\";\"279.9\";\"Whisky Johnnie Walker Gold Johnnie Walker® Ultimate"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"ROYAL SALUT 21 ANOS GREEN\";\"1076\";\"799.9\";\"Criado em homenagem à coroação da Rainha Elizabeth II em 1953"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"WISKY GLENFIDDICH 12 SINGLE MALT SOOTH\";\"449.9\";\"379.9\";\"Whisky Glenfiddich 12 anos 750 ml. É Single Malt mais popular do mundo. Desde 1887 é o único single malt das Highlands destilado"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"WISKY GLENFIDDICH 15 SINGLE MALT SCOTCH\";\"539.9\";\"489.9\";\"Whisky Glenfiddich 15 anos é envelhecido pelo sistema de soleras. Composto por 100% puro malt escocês. Nova garrafa. Mesmo Sabor!!! Exemplificando a tradição de inovação de nossa família"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"ROYAL SALUT 21 ANOS BRANCO 700 ML\";\"1190.9\";\"749.9\";\"Criado em homenagem à coroação da Rainha Elizabeth II em 1953"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"WHISKY ROYAL SALUTE MIAME POLO 700 ML\";\"1299.9\";\"899.9\";\"Ensolarado e despreocupado"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"WHISKY JAPANESE THE CHITA SINGLE GRAIN\";\"419.9\";\"369.9\";\"Whisky The Chita 700 ml - Single Grain Japanese. O The Chita é um single grain Japanese whisky produzido pela Destilaria Chita"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"WHISKY THE GLENLIVET 1824 CARIBBEAN\";\"209.9\";\"203.9\";\"Caribbean Reserve é a adição de um toque adocicado e tropical para a marca The Glenlivet. Para sua criação"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"WHISKY THE GLENLIVET 1824 FOUDER´S\";\"249.9\";\"199.9\";\"Whisky Glenlivet Founders Reserve 750ml Whisky Glenlivet Founders Reserve 750 m: Whisky Glenlivet Founders Reserve 750 m Garrafa Whisky The Glenlivet Founders Reserve 750 ml Garrafa Whisky The Glenlivet Founders Reserve 750 ml Single Malt Reino Unido O Glenlivet define um padrão de qualidade e bom gosto"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"WHISKY BALLANTINES SUNSHINE ABACAXI\";\"149.9\";\"74.9\";\"Em 1827"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"WHISKY AME 1792 SMALL BATCH\";\"249.9\";\"199.9\";\"WHISKEY 1792 SMALL BATCH DESCRIÇÃO: Whiskey 1792 Small Batch é um whiskey americano produzido pela destilaria Barton 1792 Distillery"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"WHISKY MACALLAN 12 ANOS SHERRY OAK\";\"789.9\";\"699.9\";\"Whisky Macallan Sherry Oak 12 anos 700 ml. O verdadeiro clássico The Macallan"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"WHISKY GLENFIDDICH 18 ANOS 750 ML\";\"899.9\";\"785.9\";\"Imagem Produto Whisky Glenfiddich 18 anos 750 ml Código: 248 Outros produtos: Glenfiddich Compartilhar Rating 4.8 (10) OFERTA EXPIRA EM: 15:28:43 De: R$ 1.357"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"APERITIVO BITTER CAMPARI 998 ML\";\"69.9\";\"59.9\";\"Campari é um bitter servido como aperitivo obtida pela infusão de sessenta ingredientes"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"LICOR FRANGELICO 750 ML\";\"214.4\";\"139.9\";\"Licor italiano Frangelico é originário da região de Piemonte e é considerada a melhor produtora do mundo de seu principal ingrediente: a avelã; além de cacau"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Licor de Whisky Fireball c/Canela\";\"99.9\";\"79.9\";\"Fireball é feito com whisky canadense e sabores naturais de canela. É certamente muito especiado"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"LICOR DRAMBUIE\";\"177.9\";\"99.9\";\"Traz a tradição de 250 anos de história: era o licor pessoal do Príncipe Edward Stuart"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"KIT LICOR PEACHETREE COM COPO\";\"139.9\";\"99.9\";\"O Licor de Pêssego Peachtree é fruto de uma extraordinária combinação de pêssegos doces e maduros com a expertise da destilaria De Kuyper na criação de licores excepcionais. Servido puro"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"APEROL APERITIVO 750 ML\";\"69.9\";\"49.9\";\"Aperol Spritz é o autêntico drink italiano. Criado em 1919 e com uma receita inalterada até hoje"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"ROKU Gin 700 ML\";\"179.9\";\"159.9\";\"O Roku é um Gin produzido no Japão que traz 6 botânicos especiais da terra do sola nascente. Estes seis botânicos são combinados a mais oito botânicos tradicionais usados na produção de gins. Cada botânico representa uma estação do ano"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"GYN SEAGERS DRY GIN 1L\";\"49.9\";\"39.9\";\"O GIN SEAGERS É UM LONDON DRY GIN"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"GIN BEEFEATER PINK\";\"149.9\";\"129.9\";\"Beefeater Pink é um gin moderno"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VODKA LIQUID 950 ML\";\"59.9\";\"19.9\";\"Vodka Liquid First 950 ml. A Liquid é uma vodka com visual moderno e foco no público jovem. Ideal para ser consumida em drinks ou misturada com energéticos"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"CAVA FREIXENET CORDON NEGRO BRUT 1"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT KAIPU\";\"59.9\";\"26.9\";\"Quando o passado se conecta ao futuro e o conhecido encontra o inexplorado"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT SALENTEIN NUMINA MALBEC\";\"189.9\";\"159.9\";\"A Bodegas Salentein nasceu pelo sonho de Mindert Pon"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"QUEIJO PARMESÃO FORMOSA 5 kg\";\"75.9\";\"69.9\";\"QUEIJO EM TORNO DE 5 KG\";\"outro\";\"https://fibo.promokit.com.br/images/empresa/47ec25a0-b676-11f0-b53f-2b3672a768e8.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"QUEIJO GRANA PADANO FORMA GRANPARMA\";\"149.9\";\"112.9\";\"PEÇA DE MEIA FORMA DE GRANA PADANO COM APROXIMADAMENTE 17 KG\";\"outro\";\"https://fibo.promokit.com.br/images/empresa/f7575fa0-b676-11f0-83f9-41e9b692f1cf.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"QUEIJO BRIE FORMA SÃO VICENTE ( VENDIDO NO KG)\";\"79.9\";\"79.9\";\"Produto pesado no momento da compra. peças de aproximadamente 1 kg a 1"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"QUEIJO BRIE SÃO VICENTE 115 G\";\"11.9\";\"11.9\";\"Diretamente da região de Brie"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"QUEIJO FRAÇÃO AZUL SPECIALITE ( VENDIDO NO KG)\";\"89.9\";\"89.9\";\"Produto pesado no ato da compra O Queijo Azul Spécialité possui características próprias"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"QUEIJO TIPO MAASDAM\";\"12.9\";\"12.9\";\"Textura Suave: Possui uma textura macia e derretida"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"QUEIJO GOUDA COM TOMATE SECO E MANJERICÃO\";\"12.9\";\"12.9\";\"Apresenta uma casca lisa e fina. Tem textura macia e sua massa é firme. O sabor do queijo gouda mais jovem é frutado e doce"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"QUEIJO GOUDA COM ERVAS\";\"12.9\";\"12.9\";\"Apresenta uma casca lisa e fina. Tem textura macia e sua massa é firme. O sabor do queijo gouda mais jovem é frutado e doce"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"QUEIJO MONTANHÊS\";\"12.9\";\"12.9\";\"Lembra o queijo parmesão pela cor e textura"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"QUEIJO SUÍÇO\";\"12.9\";\"12.9\";\"Possui coloração amarela e casca dura e seca. Em sua textura"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Queijo Tipo Estepe\";\"12.9\";\"12.9\";\"Características: Possui cor amarelo-palha e aroma e textura próximos ao do queijo prato. Devido a sua maturação"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Queijo tipo emmental cruzilia\";\"18.9\";\"18.9\";\"Produzido com leite selecionado ao pé da Serra da Mantiqueira e cuidados artesanais. Tem sabor suave"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Queijo tipo gouda Cruzilia\";\"18.9\";\"18.9\";\"Originalmente foi criado na Holanda"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"QUEIJO TIPO GRUYERE CRUZILIA\";\"20.9\";\"20.9\";\"O queijo Gruyére Cruzilia possui sabor frutado"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Queijo parmesão Cruzilia\";\"18.9\";\"18.9\";\"Um dos de queijos mais famosos e valorizados do mundo"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"QUEIJO PRATO ESFÉRICO CRUZILIA\";\"18.9\";\"18.9\";\"Um queijo brasileiro derivado do Edam holandês e desenvolvido pela primeira vez no Brasil na década de 1920"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"QUEIJO PROVOLONE FRESCO DEFUMADO COM PIMENTA CRUZILHA\";\"18.9\";\"18.9\";\"Inspirado no provolone de origem italiana"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"QUEIJO DANBO A LENDA CRUZILIA\";\"21.9\";\"21.9\";\"Um queijo misterioso feito em prensa manual"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"QUEIJO FAIXA AZUL CILINDRO\";\"34.9\";\"34.9\";\"Toda a riqueza de um clássico com receita origianal italiana. O parmesão Faixa Azul possui mais de 80 anos de tradição e artesania"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"CREME DE GORGONZOLA SÃO VICENTE 250 G\";\"17.9\";\"17.9\";\"CREME DE GORGONZOLA SÃO VICENTE 250 G\";\"outro\";\"https://fibo.promokit.com.br/images/empresa/62e693e0-17c1-11ef-af1c-053f7e683eee.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"QUEIJO PRIMA DONNA AZUL 0"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"QUEIJO PRIMA DONNA VERMELHO 0"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"MANTEIGA LA MOTTE\";\"31.9\";\"31.9\";\"A manteiga La Motte é uma manteiga extremamente macia com sabor suave e fresco\";\"outro\";\"https://fibo.promokit.com.br/images/empresa/b1836a70-d7ef-11ef-a4ec-cb6590e38005.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"QUEIJO LA VACA QUE RÍE\";\"29.9\";\"29.9\";\"Descubra a alegria em cada mordida com o queijo francês A Vaca que ri. Com sua irresistível cremosidade e sabor suave"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"QUEIJO PARMESÃO BABY FORMOSA\";\"69.9\";\"69.9\";\"QUEIJO EM TORNO DE 1 KG PARA MENOS\";\"outro\";\"https://fibo.promokit.com.br/images/empresa/a1b4e5e0-89ad-11f0-a3a8-d929be240235.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"QUEIJO PARMESÃO CAPA PRETA SERENISSIMA ARGENTINO APRO 7 KG\";\"74.9\";\"74.9\";\"QUEIJO ARGENTINO CAPA PRETA"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"QUEJO GOUDA FORMA SÃO VICENTE CAPA ROSA\";\"74.9\";\"74.9\";\"QUEIJO GOUDA SÃO VICENTE CAPA ROSA"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"QUEIJO GORGONZOLA FORMA CRUZILIA\";\"69.9\";\"69.9\";\"QUEIJO AZUL GORGONZOLA FORMA CRUZILIA VENDIDO NO PESO EM TORNO DE 3 A 5 KG\";\"outro\";\"https://fibo.promokit.com.br/images/empresa/2ee33650-89af-11f0-90f7-7f4b6eb32704.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"MOLHO PESTO VIEIRA 190G\";\"22.9\";\"22.9\";\"MOLHO PESTO VIEIRA ARTEZANAL\";\"outro\";\"https://fibo.promokit.com.br/images/empresa/237f7e20-89b1-11f0-8121-5bfc0af5e636.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"CASILLERO DEL DIABLO B LIGHT BCO\";\"49.9\";\"49.9\";\"O Belight Sauvignon Blanc é um vinho branco chileno elaborado pela vinícola Casillero del Diablo. Produzido a partir de um blend de uvas Sauvignon Blanc"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"MARQUES CASA CONCHA CABERNET SAUVIGNON\";\"99.9\";\"99.9\";\"Tinto composto a partir de 91% Cabernet Sauvignon"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"MARQUES CASA CONCHA MALBEC\";\"99.9\";\"99.9\";\"Amadurecimento"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT AMAYNA PINOT NOIR\";\"359.9\";\"359.9\";\"O Vinho Amayna Pinot Noir"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT AMAYNA SYRAH\";\"359.9\";\"359.9\";\"Amayna Syrah é um vinho “simplesmente estonteante” para James Suckling"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"CARMIN DE PEUMO CARMENERE\";\"599.9\";\"599.9\";\"A Carmenére encontrou na DO Peumo e nas mãos de profissionais obstinados pela qualidade sua melhor expressão. Maturação perfeita"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT CASAS DEL TOQUI\";\"49.9\";\"49.9\";\"Carmenere elaborado pela Casas del Toqui"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT CASAS DEL TOQUEI RERROIR GRAN RESERVACAREMENERE\";\"79.9\";\"79.9\";\"Este vinho é elaborado no terroir de Peumo"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VIK “A” CARMENERE\";\"139.9\";\"139.9\";\"Visual: Rubi com reflexos violáceos. Aromas: No aroma"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO VIK A CABERNET SAUVIGNON 750ml\";\"139.9\";\"139.9\";\"Vik A Cabernet Sauvignon 750ml Vinho Chileno Vinho elegante"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHNO CHILENO VIK LA PIU BELLE ROSE\";\"129.9\";\"129.9\";\"La Piu Belle se destaca pela sua cativante cor rubi"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO BOYA SYRAH\";\"149.9\";\"149.9\";\"O Vinho Boya Syrah é assinado pela Viña Garcés Silva"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT CABO DE HORNOS\";\"399.9\";\"399.9\";\"inho Cabo de Hornos Cabernet Sauvignon 750 ml. Cabo de Hornos"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO CLOS APALTA\";\"999.9\";\"999.9\";\"O cultuado Clos Apalta é um verdadeiro mito"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO VIK MILLA CALA\";\"199.9\";\"199.9\";\"Um vinho super premium! Milla Cala esbanja elegância e vivacidade! Produzido pela Viña Vik no maravilhoso terroir de Millahue"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Yali reserva cabernet sauvignon\";\"74.9\";\"74.9\";\"Yali Wetland Reserva Cabernet Sauvignon"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Yali reserva carmene 750 ml\";\"74.9\";\"74.9\";\"Vinho Yali Wetland Reserva Carménère"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Yali reserva Pinot Noir 750 ml\";\"74.9\";\"74.9\";\"Yali Wetland Reserva Pinot Noir"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO BOYA PINOT NOIR\";\"162.9\";\"162.9\";\"Elegante e refinado"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT GRAN TOQUI SYRAH\";\"79.9\";\"79.9\";\"No visual"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO CÓDIGO\";\"159.9\";\"159.9\";\"Codigo é uma linha ícone da prestigiada vinícola Casas del Toque elaborada com uvas provenientes do Alto Totihue"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"MARQUES CASA CONCHA CARMENERE\";\"99.9\";\"99.9\";\"Tinto elaborado exclusivamente a partir de Carménère"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO SIEGEL SIRAH\";\"89.9\";\"89.9\";\"Vinho Siegel Gran Reserva Cabernet Sauvignon Tinto 750ml"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO ESCUDO ROJO\";\"328.9\";\"328.9\";\"Ícone com a assinatura de Baron Philippe de Rothschild no Chile"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO ESCUDO ROJO BARONESA\";\"529.9\";\"529.9\";\"VINHO ESCUDO ROJO TT BARONESA 750 ML.. Assinado por Escudo Rojo"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO CHILENO SIBARIS GRAN RESERVA PINOT NOIR\";\"64.9\";\"64.9\";\"O Sibaris Gran Reserva DO Valle del Maule é um vinho elegante e marcante"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"MARQUES DE CASA CONCHA MERLOT\";\"99.9\";\"99.9\";\"Tinto elaborado exclusivamente a partir de Merlot"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"BARON PHILIPPE DE ROTHSCHILD RESERVA VALLE CABERNET\";\"37.9\";\"37.9\";\"Rothschild é um nome de peso no mundo do vinho"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINO UNDURRAGA CABERNET SAUVIGNON\";\"29.9\";\"29.9\";\"Vinho Undurraga Cabernet Sauvignon 750 ml. Em seu mais recente ciclo de sucesso e conquistas"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT VON SIEBENTHAL CARABANTES\";\"269.9\";\"269.9\";\"Passam por 18 meses de envelhecimento em barris de carvalho franceses e americanos"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT CASILLERO DEL DIABLO CHARDONNAY\";\"59.9\";\"39.9\";\"Vinho Casillero Del DIablo Chardonnay 750ml Vinho Casillero del DIablo Chardonnay 750ml Amarelo esverdeado límpido e brilha. Aroma fresco e frutado com notas de abacaxi"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT VENTISQUERO RESERVA CARMENERE\";\"69.9\";\"39.9\";\"Desfrute da elegância e sofisticação do Vinho Alma De Los Andes Carmenére Reserva. Este vinho de origem chilena"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT VENTISQUERO RESERVA MERLOT\";\"69.9\";\"37.9\";\"Desfrute da elegância e sofisticação do Vinho Alma De Los Andes Carmenére Reserva. Este vinho de origem chilena"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT TH\";\"89.9\";\"89.9\";\"A sigla T.H. significa Terroir Hunter (Caçador de Terroir) e o conceito a embasar essa linha de vinhos é o da busca pelo terroir ideal (a combinação de clima"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO BCO UNDURRAGA SAUVIGNON BLANC\";\"29.9\";\"29.9\";\"A linha U by Undurraga é uma linha de entrada da renomada vinícola Undurraga que tem como objetivo se aproximar dos consumidores ao trazer vinhos descomplicados"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO UNDURRAGA ROSÉ\";\"29.9\";\"29.9\";\"A linha U by Undurraga é uma linha de entrada da renomada vinícola Undurraga que tem como objetivo se aproximar dos consumidores ao trazer vinhos descomplicados"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO CHILENO VIK LA PIU BELLE ROSE 1"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT VENTISQUERO RESERVA CABERNET\";\"69.9\";\"37.9\";\"Desfrute da elegância e sofisticação do Vinho Alma De Los Andes Carmenére Reserva. Este vinho de origem chilena"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT CABALLO LOCO EXPERIMENTAL GRANÍTICO\";\"199.9\";\"199.9\";\"Aroma:No nariz é fresco"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO ALIWEN CABERNET SAUVIGNON-SYRAH\";\"36.9\";\"36.9\";\"Aliwen significa árvore sagrada em Mapudungun"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT ZANGONE RESERVADO CARMENERE\";\"39.9\";\"18.9\";\"Aromas típicos da uva Cabernet Sauvignon"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"CASILLERO DEL DIABLO B LIGHT BCO (Cópia)\";\"49.9\";\"49.9\";\"O Belight Sauvignon Blanc é um vinho branco chileno elaborado pela vinícola Casillero del Diablo. Produzido a partir de um blend de uvas Sauvignon Blanc"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"CATENA CHARDONNAY BRANCO\";\"199.9\";\"199.9\";\"Catena Zapata é \"\"A Vinícola Mais Admirada do Mundo\"\" na reputada lista \"\"50+\"\" da revista inglesa Drinks International 2020. Produzido para o mercado interno argentino"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"D.V CATENA MALBEC MALBEC\";\"279.9\";\"279.9\";\"Outra estrela da nova linha premium de Catena Zapata"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT CALLIA\";\"34.9\";\"34.9\";\"Vinho de cor vermelho escuro. Aromas de frutas vermelhas como ameixas e cerejas"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO BRANCO ALMA NEGRA\";\"199.9\";\"199.9\";\"O Alma Negra Blanco é um surpreendente corte secreto de Ernesto Catena. Rico"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"ALAMBRADO ETIQUETA MALBEC\";\"64.99\";\"64.99\";\"Vinho tinto elaborado com uvas Malbec provenientes do Vale do Uco"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"LUIGI BOSCA CABERNET SAUVIGNON\";\"139.9\";\"89.9\";\"amora"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"SOTTANO RESERVA CABERNET SUAVIGNON\";\"99.9\";\"99.9\";\"O Vinho Sottano Reserva Cabernet Sauvignon apresenta coloração vermelho. Mostra aromas de frutas vermelhas combinadas com aromas de especiarias e mentolados jogam harmoniosamente no nariz"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"SOTTANO RESERVA DE FAMILIA MALBEC\";\"114.9\";\"114.9\";\"O Vinho Sottano Reserva de Família Malbec apresenta coloração excelente e profunda cor violácea e boa expressão varietal. Mostra aromas de especiarias tais como cravo-da-índia e pimenta branca. Em boca possui estrutura com taninos maduros e sedosos"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"SOTTANO RESERVA FAMILIA CABERNET SAUVIGNON\";\"114.9\";\"114.9\";\"Sottano reserva cabernet sauvignon é um vinho tinto intenso e encorpado"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT LAS PERDICES TINAMU\";\"229.9\";\"229.9\";\"Exemplar elaborado pela renomada vinícola argentina Viña Las Perdices com uvas de vinhedos situados em Agrelo"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT CATENA ZAPATA MALBEC\";\"1105.9\";\"1105.9\";\"antástica criação de Nicolás Catena Zapata"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO ALMA NEGRA BLEND\";\"224.9\";\"224.9\";\"Alma Negra é um delicioso \"\"corte secreto\"\" de Tikal"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"ANGELICA ZAPATA CHARDONNAY\";\"329.9\";\"329.9\";\"Angelica Zapata é o melhor Chardonnay de Catena produzido para o mercado interno argentino"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"ANGELICA ZAPATA MALBEC\";\"415.9\";\"415.9\";\"Vinho Angelica Zapata Malbec 750 ml. Este disputado Malbec é produzido para o mercado interno argentino"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Dv Catena Syrah Syrah 750ML\";\"219.9\";\"219.9\";\"Elaborado com uvas de dois vinhedos excepcionais"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"DV CATENA CABERNET MALBEC\";\"219.9\";\"219.9\";\"O excelente DV Catena Cabernet Malbec é elaborado com o emblemático corte argentino"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"GRAN ENEMIGO GUALTALLARY\";\"764.9\";\"764.9\";\"O vinho é um blend poderoso e sério"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO JUDAS MALBEC\";\"399.9\";\"399.9\";\"Intensa cor vermelha brilhante com tintura preta. Sua grande complexidade e intensidade aromática mostra notas de cerejas"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"LAS PERDICES MALBEC\";\"39.9\";\"39.9\";\"A Viña Las Perdices é de origem familiar"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"RUTINI MALBEC\";\"239.9\";\"239.9\";\"Ao mesmo tempo potente e refinado"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT AMANCAYA\";\"234.9\";\"234.9\";\"Amancaya é um vinho tinto argentino produzido com as uvas Cabernet Sauvignon (50%) e Malbec (50%) na região de Mendoza. Seu produtor"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO HUMBERTO BARBERIS 750ML\";\"99.9\";\"99.9\";\"Produzido pela Bodegas Barberis"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO LAS PERDICES RESERVA CABERNET SAUVIGNON\";\"59.9\";\"59.9\";\"INHO LAS PERDICES RESERVA MALBEC 750 ML A Viña Las Perdices é de origem familiar"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO SEPTIMA GRAN RESERVA\";\"159.9\";\"159.9\";\"Obra Prima é a gama premium da Bodega Cassone. Vinhos de qualidade e complexidade ímpares"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT PARCELA NICOLA CATENA\";\"519.9\";\"519.9\";\"O Nicola Catena Bonarda é um vinho argentino de cor intensa e sabor marcante. Produzido pelo renomado vinicultor argentino Nicolás Catena"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO CATENA ALTA CABERNET SAUVIGNON\";\"389.9\";\"389.9\";\"O mais festejado Cabernet Sauvignon da Argentina"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO 4 GATOS LOCOS MALBEC MIAU\";\"104.9\";\"104.9\";\"Miau é a máxima expressão da fruta em seu estado puro. Expressando o terroir"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO RUCA MALEN CABERNET SAUVIGNON\";\"74.9\";\"74.9\";\"O Ruca Malen Capítulo Uno Cabernet Sauvignon é uma experiência vinícola argentina que emana da próspera região de Mendoza. Com uma rica coloração vermelho rubi"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"CASSONE RESERVA MALBEC/SYRAH\";\"79.9\";\"79.9\";\"Vinho de perfil aromático muito complexo mas que evolui na taça a cada prova. Amplo e volumoso na boca"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"CASSONE RESERVA MALBEC/MALBEC\";\"79.9\";\"79.9\";\"Este Malbec/Malbec Reserva foi originado a partir de dois vinhedos diferentes da Familia Cassone em Mendoza. O vinho ganhou estilo mais elegante e sóbrio"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"CASSONE RESERVA MALBEC/CAB. SAUV.\";\"79.9\";\"79.9\";\"Coloração rubi intenso. Aromas provocantes de couro engraxado e geléia de jabuticaba. O paladar é uma apoteose"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Kadabra Malbec - Argentino\";\"63.9\";\"63.9\";\"Vinho Argentino cor rubi intensa"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO CRIOS TORRONTES\";\"59.9\";\"59.9\";\"Descubra a mágica do Susana Balbo Red Blend"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT PORTILHO CABERNET SAUVIGNON\";\"49.9\";\"49.9\";\"Portillo é uma coleção de vinhos desenvolvida pela Bodegas Salentein"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO SEPTIMA TIERRA\";\"139.9\";\"139.9\";\"O Septima Tierra Gualtallary Malbec 1310 MSNM apresenta uma coloração vermelho-rubi profunda e brilhante. No nariz"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO ISCAY MALBEC\";\"285.9\";\"285.9\";\"Com 130 anos de tradição"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO PEQUENAS PRODUCCIONES CABERNET\";\"199.9\";\"199.9\";\"Em cada garrafa a linha Pequenas Produções"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO ALMADÉN CABERNET\";\"32.9\";\"32.9\";\"Experimente o sabor equilibrado e harmônico do Vinho Almadén Cabernet Sauvignon Tinto Seco"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO MARIA MAGDALENA CHARDONNAY\";\"229.9\";\"229.9\";\"aromas cítricos de abacaxi e lima com notas de amêndoas"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO SOTTANO RESERVA MALBEC\";\"79.9\";\"79.9\";\"O Vinho Sottano Reserva malbec apresenta coloração com profunda cor violácea com lampejos pretos é entregada a primeira vez que vemos este vinho Mostra aromas aromas florais"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO LAS PERDICES RESERVA 1"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT CALLIA SYRAH BONARDA\";\"39.9\";\"34.9\";\"Vinho Tinto elaborado com uvas Syrah"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"CALLIA BRANCO CHARDONNAY\";\"34.9\";\"34.9\";\"Vinho Tinto elaborado com uvas Syrah"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"BRAMARE LUJAN DE CUYO\";\"399.9\";\"399.9\";\"Um cabernet focado e apertado. Belos aromas e complexidade com groselhas"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"ANIMAL CHARDONNAY\";\"164.9\";\"164.9\";\"Ótimo Chardonnay elaborado por Ernesto Catena com uvas provenientes de vinhedos de cultivo orgânico"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO LAS PERDICES DON JUAN\";\"109.9\";\"109.9\";\"Este vinho é um dos ícones da Viña Las Perdices e leva o nome do fundador da vinícola"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO PILATOS BY JUDAS\";\"159.9\";\"159.9\";\"O Vinho Pilatos By Judas apresenta coloração cor vermelha intensa"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT GRAN Alma Negra\";\"479.9\";\"479.9\";\"Classificado com 93 pontos por Antonio Galloni na safra 2018"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT ALMA NEGRA PINOT NOIR\";\"229.9\";\"229.9\";\"Um vinhedo localizado a 1.300 metros de altitude em Tupungato"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"LUIGI BOSCA MALBEC\";\"159.9\";\"89.9\";\"Vinho Argentino Luigi Bosca Malbec 750ml exibe uma cor vermelha rubi intensa"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"THIS IS NOT ANOTHER LOVELY MALBEC\";\"89.9\";\"89.9\";\"Colhido à mão"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO BRANCO URBAN SAUVIGNON BLANK\";\"55.9\";\"55.9\";\"Delicioso com saladas"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO LATITUD 33 ° MALBEC\";\"42.9\";\"42.9\";\"Vinho Latitud 33° Malbec 750 ml. O nome Latitud 33º faz referência à latitude"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO BRANCO URBAN TORRONTÉS\";\"55.9\";\"55.9\";\"Delicioso com saladas"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT LAS PERDICES DON JUAN RESERVA\";\"109.9\";\"109.9\";\"Este vinho é um dos ícones da Viña Las Perdices e leva o nome do fundador da vinícola"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO BRANCO LAS PERDICES TORRONTES\";\"59.9\";\"59.9\";\"Branco de aromas florais e frutados"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO SUSANA BALDO TRADICION RED BLEND\";\"89.9\";\"59.9\";\"Para criar os seus vinhos"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO SUSANA BALDO TRADICION MALBEC\";\"89.9\";\"59.9\";\"Para criar os seus vinhos"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO SUSANA BALDO TRADICION CHARDONNAY\";\"89.9\";\"59.9\";\"Para criar os seus vinhos"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO BCO LAS PERDICES PINOT GRIGIO\";\"59.9\";\"59.9\";\"Este Pinot Grigio de Las Perdices é um dos destaques entre os brancos da vinícola"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO LAS PERDICES RESERVA ALBARINO\";\"59.9\";\"59.9\";\"No nariz"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"LAS PERDICES LATE HARVEST\";\"59.9\";\"59.9\";\"Elaborado de forma natural o vinho branco doce Late Harvest Viognier teve sua colheita tardia feita em Maio de 2016 quando as uvas alcançaram sua ótima maturidade e teor de açúcar especial para esta elaboração. Suas notas de frutas amarelas"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO BCO LATITUTE 33 CHARDONNAY\";\"54.9\";\"39.9\";\"Vinho Latitud 33 Chardonnay 750ml LATITUD 33º onde a terra é diferente. Os melhores vinhedos do Hemisfério Sul estão localizados numa faixa latitudinal muito reduzida entre os paralelos 32 e 38 onde encontramos microclimas especiais na América do Sul. Na Argentina localizado na província de Mendoza existe um lugar único situado exatamente na Latitud 33. Aroma intenso destacando a fruta fresca tropical (banana e abacaxi)"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO BCO LAS PERDICES VIOGNIER\";\"59.9\";\"59.9\";\"Exemplar elaborado pela renomada vinícola argentina Viña Las Perdices com vinhedos situados em Mendoza"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT CHATEAU GARBIN RESERVA CABERNET SAUVIGNON\";\"39.9\";\"24.9\";\"O Vinho Argentino Tinto Cabernet Sauvignon Chateau Garbin 750ml é uma escolha excepcional para os amantes de vinhos que buscam qualidade e sofisticação. Produzido na região vinícola de Mendoza"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT APARTADO\";\"706.9\";\"706.9\";\"Rutini Apartado Gran Malbec. Este puro Malbec feito com uvas colhidas nos melhores vinhedos da Rutini"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO AMALAYA MALBEC 1"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT CATENA APPELLATION LUNLUNTA MALBEC\";\"219.9\";\"219.9\";\"Este surpreendente Malbec de terroir é produzido com uvas de um vinhedo muito especial"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"BEN MARCO CABERNET SAUVIGNON\";\"119.9\";\"89.9\";\"Bela cor roxa com aromas perfumados de frutas vermelhas maduras e grãos de café torrados. É exuberante"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT CALLIA PINOT GRIGIO\";\"34.9\";\"34.9\";\"Vinho de cor vermelho escuro. Aromas de frutas vermelhas como ameixas e cerejas"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT CALLIA SYRAH MALBEC\";\"39.9\";\"34.9\";\"É um vinho tinto produzido na região de San Juan"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO SUSANA BALDO TRADICION CABERNET\";\"89.9\";\"59.9\";\"Para criar os seus vinhos"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT CAVA NEGRA MERLOT\";\"32.9\";\"26.9\";\"Leve"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT CAVA NEGRA MERLOT MALBEC\";\"32.9\";\"26.9\";\"Leve"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT CAVA NEGRA CABERNET\";\"32.9\";\"26.9\";\"Leve"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO NATURELLE\";\"79.9\";\"79.9\";\"Naturelle representa a história da Famiglia Valduga e o legado de gerações passadas. É um resgate do belo e simples. São as raízes mais profundas"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"BATASIOLO DOLCETTO D ALBA\";\"114.9\";\"114.9\";\"Esse rótulo é produzido com a Dolcetto"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO VIETTI BARBERA D ALBA TRE VIGNE TTO 750 ML\";\"599.9\";\"599.9\";\"Caratteristiche: colore rosso rubino con aroma di ciliegie mature e vaniglia. Note di viola e struttura dolcemente più rotonda rispetto al Barbera d’Asti Tre Vigne. Acidità brillante e tannini dolci al palato con un’equilibrata presenza del legno"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO NINA MERLOT\";\"65.9\";\"65.9\";\"Um vinho leve"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT SASSICAIA SAFRA 2021\";\"2990.9\";\"2990.9\";\"O mais famoso Supertoscano"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Sogno Di Ulisse Chardonnay/Malvasia Igp\";\"92.9\";\"92.9\";\"Sogno di Ulisse Chardonnay Malvasia é uma incrível união de sabores provenientes do assemblage de uvas brancas que expressam a essência da região de Abruzzo. Esse é o verdadeiro resultado da filosofia da Tenuta Ulisse"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VIETTI BAROLO CASTIGLIONE DOCG DOCG 90WS\";\"649.9\";\"649.9\";\"Barolo com 24 meses em barricas de carvalho"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO PAPALE RESERVA\";\"255.9\";\"255.9\";\"Papale Linea Oro é um belo convite a uma degustação sem pressa"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO BOSCHI SIGNORI BAROLO\";\"289.9\";\"289.9\";\"VINHO BOSCHI DEI SIGNORI BAROLO 750 ML Assinado pela família Bosio"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO CHIANTI DOCG LOCA CIUCA\";\"163.9\";\"163.9\";\"Belíssima descoberta da região de Chianti"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO VILLA ANTINORI\";\"144.9\";\"144.9\";\"Dedicada à vitivinicultura há mais de 600 anos"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO SASSOALLORO 2020\";\"406.9\";\"406.9\";\"Verdadeiro superstar toscano - desde sua primeira safra em 1991 - este tinto Sangiovese é fresco"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO CA MARCANDA PROMIS\";\"599.9\";\"599.9\";\"Macio e envolvente"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO DOSIO LANCHE NEBBIOLO\";\"279.9\";\"279.9\";\"Nebbiolo é uma variedade medieval intimamente ligada ao Piemonte"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO RUBIZZO TOSCANA\";\"94.9\";\"94.9\";\"Rocca delle Macìe produz alguns dos melhores e mais típicos vinhos da Toscana"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO MATURO TRADIZIONE CHIANTI\";\"63.9\";\"63.9\";\"Chianti é um dos territórios vinícolas mais emblemáticos da Itália. Ele representa histórias e tradições centenárias"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Vinho tinto Sedada\";\"145.9\";\"145.9\";\"O Vinho Donnafugata La Bella Sedàra é elaborado a partir da típica uva Nero d’Avola"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO FINO FREIXENET PRIMITIVO\";\"74.9\";\"74.9\";\"Após o sucesso do lançamento do Freixenet Prosecco e Italian Rosé"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO LE DIFESE\";\"299.9\";\"299.9\";\"Le Difese significa as presas dos jabalís que são abundantes na Toscana. O “bebe” da família Sassicaia é encantador"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT ALESE NEGRO AMARO\";\"39.9\";\"39.9\";\"Este tinto italiano produzido 100% com a variedade Negroamaro é um vinho para se deliciar com os mais diversos pratos. Seus aromas e sabores lembram frutas silvestres"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT SOLENGO\";\"899.9\";\"899.9\";\"Esse excepcional vinho é uma expressão bem recente das potencialidades dos vinhedos da Argiano. Legítimo representante da classe dos Super Toscanos"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT LANCHE ROSSO BATASIOLO\";\"261.9\";\"261.9\";\"A história de Beni di Batasiolo remonta a 1979 quando os irmãos Dogliani compraram uma antiga vinícola Kiola junto com seus sete crus. Localizada no Piemonte"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT BRUNELLO BANFI\";\"499.9\";\"499.9\";\"Aromas Frutas Vermelhas Maduras Regiões Toscana Emparelhamento Carnes vermelhas guisadas"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT BRUNELLO CIACCI PICCOLOMINI D ARADONA 1990\";\"4900\";\"3450\";\"Tem cor vermelho rubi beirando o granada. Intenso"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT DOM RAFAEL\";\"118.9\";\"118.9\";\"Este vinho de cor granada profunda possui um aroma intenso de ameixas e amoras silvestres"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO EA CARTUXA rose\";\"64.9\";\"64.9\";\"A linha EA da Cartuxa é composta pelos chamados 'vinhos do ano'"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"QUINTA DA ALORNA TINTO GRAN RESERVA\";\"249.9\";\"249.9\";\"Este vinho de cor granada possui um aroma com boa integração de frutos silvestres"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"QUINTA DO CRASTO RESERVA VINHAS VELHAS TTO 750 ML\";\"365.9\";\"365.9\";\"Como o nome sugere"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT REGIA COLHEITA DOC ALENTEJO\";\"99.9\";\"99.9\";\"Tipo: Vinho Tinto Uvas: Alicante Bouschet"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO PORTUGUES CICONIA RED WINE\";\"44.9\";\"44.9\";\"Este vinho regional foi produzido na Herdade de São Miguel"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO ATLANTICO ALENTEJANO\";\"37.9\";\"37.9\";\"O dinâmico e simpático Alexandre Relvas é o responsável por elaborar este tinto a partir de Alicante Bouschet"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO LISBONITA TINTO\";\"39.9\";\"39.9\";\"Lisbonita (Lisboa bonita)"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT JP AZEITAO\";\"34.9\";\"34.9\";\"Vinho português tinto de coloração vermelha brilhante"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT MONTE DE PINHEIROS\";\"59.9\";\"59.9\";\"O vinho Cartuxa Monte de Pinheiros apresenta coloração vermelho granada"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"LISBONITA BRANCO\";\"39.9\";\"39.9\";\"Tipo: Branco seco País: Portugal Região: Lisboa Uva: Sauvignon Blanc"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO BRANCO OLARIA SUAVE\";\"39.9\";\"32.9\";\"A CARMIM Reguengos – Cooperativa Agrícola de Reguengos de Monsaraz – foi criada em 1971 por um grupo de 60 viticultores. Cinquenta anos depois"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO ALECRIN\";\"24.9\";\"24.9\";\"VINHO ALECRIM TINTO 750 ML A Roquevale - Ségur Redondo Winery é uma tradicional vinícola portuguesa localizada em um terroir muito especial do Alentejo"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Vinho tinto Olaria suave\";\"39.9\";\"32.9\";\"Olaria é um vinho tinto suave produzido em Portugal pela vinícola Carmim"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Vinho tinto Papa Figos Douro Casa ferreirinha\";\"130.9\";\"130.9\";\"De todas as aves do Douro o Papa Figos é uma das mais raras. Uma ave migratória de cores vivas e atraentes. O carácter único e raro desta ave é a inspiração perfeita para este magnífico vinho da Casa Ferreirinha. De cor rubi com nuances violeta. Aroma de boa intensidade com notas florais a esteva e a manjerico"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO PORTADA LOTE DFJ\";\"46.9\";\"46.9\";\"Portada Lote DFJ Tinto é um vinho para o dia-a-dia. Meio encorpado"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO ESPORÃO ALICANTE BOUSCHET\";\"376.9\";\"376.9\";\"Vinho Esporão Alicante Bouschet O Alicante Bouschet é uma casta tintureira de origem francesa"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO TRICOT 2016\";\"331.9\";\"331.9\";\"Vinho Tricot Tinto 750MlVinho Tricot Tinto 750MlPortugalVinho Tricot PortugalCor vermelho rubi.O caráter das vinhas da Serra de São Mamede esta ́ bem presente neste vinho"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO CROCHET DOURO 2021\";\"399.9\";\"399.9\";\"O Crochet é um vinho feito a quatro mãos que traduz de forma fiel o espírito colossal e indomável do Douro. Um vinho feito por duas amigas"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO PINTAS DOURO\";\"1023.9\";\"1023.9\";\"Este tinto estagiou por 20 meses em barricas de carvalho francês e tem uma produção anual próxima a 12 mil garrafas. Suas uvas são originárias de vinhas velhas com quase 90 anos de idade"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO MARIANA\";\"84.99\";\"84.99\";\"Fresco e frutado exemplar elaborado a partir de vinhas localizadas em Vidigueira"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO ALTANO DOURO\";\"124.9\";\"124.9\";\"Fantástico achado"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO CORTES DE CIMA SYRAH\";\"209.9\";\"209.9\";\"Coloração granada. Aroma de frutos maduros e notas florais bem integradas"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO AlFACINHA RESERVA\";\"39.9\";\"39.9\";\"Alfacinha nasce para homenagear as tradições populares de Lisboa. Antes de ser um vinho"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO ALANDRA\";\"36.9\";\"36.9\";\"Vinho Alandra Tinto 750 ml. Vinho com um perfil fresco e frutado"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO TIAGO CABAÇO VINHAS VELHAS\";\"147.9\";\"147.9\";\"As uvas deste vinho são provenientes de vinhedos com aproximadamente 40 anos de idade. Sua fermentação ocorre com pisa a pé em lagar de temperatura controlada e"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO SEM VERGONHA\";\"249.9\";\"249.9\";\"Vinho Sem Vergonha é um vinho português"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO TAPADA DO CHAVES ALENTEJO\";\"1276.9\";\"1276.9\";\"Um dos vinhos mais icônicos e longevos do Alentejo"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT PATO REBEL PATO BEIRA ATLANTICO\";\"239.9\";\"239.9\";\"O Rebel é uma revolucionária interpretação da uva Baga"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO BLOG\";\"249.9\";\"249.9\";\"Este vinho de cor vermelha rubi concentrada é uma escolha irresistível para aumentar as vendas. Cativa com alegria e uma sedutora mistura de cerejas"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO BLOG 17\";\"460.9\";\"460.9\";\"Cor vermelha carnuda muito escura. Tenso e fechado"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO ESCULTOR\";\"399.9\";\"399.9\";\"O belo vinho Escultor"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO MONTE DO PINTOR\";\"115.9\";\"115.9\";\"Este vinho de cor granada possui um aroma concentrado de compotas de frutas negras e especiarias"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO QUINTAS DO BONS VENTOS SUPERIOR\";\"59.9\";\"59.9\";\"O vinho Ventos Superior apresenta coloração rubi. Mostra aromas de frutas vermelhas frescas como cerejas e framboesas. Em boca é uma explosão de frutas e sabor"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO QUINTA DAS SENTECOSTAS\";\"69.9\";\"69.9\";\"Apresentando o Quinta das Setencostas da renomada Vinícola Casa Santos Lima"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO TERRAS DE XISTO\";\"39.9\";\"39.9\";\"Este vinho de cor rosada possui um aroma fresco e frutado intenso. Na boca apresenta juventude"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Vinho tinto confidencial reserva\";\"59.9\";\"59.9\";\"A Casa Santos Lima é uma empresa familiar que se dedica à produção"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO CARTUXA RESERVA\";\"449.9\";\"449.9\";\"Vinho Cartuxa Reserva 750 ml. Cartuxa Reserva é resultado de uma seleção rigorosa de uvas Alicante Bouschet e Aragonez de vinhas velhas"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO BRANCO ATLANTICO\";\"37.9\";\"37.9\";\"Este vinho produzido pela Casa Relvas apresenta cor amarelo palha. A Casa Relvas é uma empresa familiar no agronegócio há cinco gerações. Herdade São Miguel foi adquirida por Alexandre Relvas em 1997"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO BRANCO PARDALITO DOC - VINHO VERDE\";\"59.9\";\"39.9\";\"Vinho Verde Pardalito Branco Português DOC 750ml O Vinho Verde Pardalito é produzido na região demarcada dos Vinhos Verdes"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO ROSE ATLANTICO\";\"49.9\";\"36.9\";\"A Casa Relvas é uma empresa familiar no agronegócio há cinco gerações. Herdade São Miguel foi adquirida por Alexandre Relvas em 1997"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO VERDE AMARANTE\";\"29.9\";\"29.9\";\"Tipo de vinho Branco Meio Seco Varietal Castas tradicionais da região dos Vinhos Verdes.\";\"branco\";\"https://fibo.promokit.com.br/images/empresa/4a0a3300-6c84-11ef-9a2d-b3f86a04c0c1.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO VERDE CASAL MENDES\";\"39.9\";\"39.9\";\"Um legítimo Vinho Verde português"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO BRANCO MARIANA\";\"84.9\";\"84.9\";\"Fresco e frutado exemplar elaborado a partir de vinhas localizadas em Vidigueira"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT BURMESTER LBV LATE BOTTLED\";\"158.9\";\"158.9\";\"Produzido no Douro"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT ANTÓNIO MARIA\";\"690.9\";\"690.9\";\"Este é um vinho do Alentejo"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO TAPADA DO CHAVES RESERVA\";\"269.01\";\"269.01\";\"Vinho Tapada do Chaves Reserva Tinto 750 ml. Vinificação: Desengace"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT CEDRO DO NOVAL\";\"163.9\";\"163.9\";\"Este vinho de cor profunda possui aromas frutados intensos e aromas de frutos vermelhos maduros"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT PAULO LAUREANO CLÁSSICO\";\"54.9\";\"54.9\";\"Este vinho de cor granada possui aroma de ameixas"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT DOM MARTINHO QUINTA DO CARMO\";\"169.9\";\"169.9\";\"O Dom Martinho Tinto"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT REVELADO ALENTEJO DOC\";\"209.9\";\"209.9\";\"No Herdade do Peso Revelado temos o blend de todos os solos e castas"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT CRASTO SUPERIOR DOURO\";\"199.9\";\"199.9\";\"Crasto Superior Tinto Douro é um vinho tinto português produzido com as uvas Touriga Nacional"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO BCO ALANDRA\";\"36.9\";\"36.9\";\"O Vinho Branco Alandra apresenta coloração citrina e aromas de frutas brancas com nuances cítricas. Em boca é elegante com excelente equilíbrio e acidez"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT JP AZEITAO ROSÉ\";\"34.9\";\"34.9\";\"Este vinho traz a uva tinta Syrah vinificada em rosé"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO EA CARTUXA TINTO 3 LITROS\";\"239.9\";\"239.9\";\"O Vinho Cartuxa EA Tinto 2020 foi lançado pela primeira vez em 1992 e"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT MULA VELHA RESERVA 1"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT DA PIPA\";\"34.9\";\"34.9\";\"O Vinho Da Pipa Reserva apresenta coloração rubi profundo"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT TAPADA DA CUNHA\";\"29.9\";\"29.9\";\"Sensações visual olfativa e gustativa: De cor rubi intenso"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT ABELHARUCO\";\"44.9\";\"44.9\";\"A nossa história funde-se com a história da família Bio. Nasce da paixão desta família pelas suas origens"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT PERIQUITA RESERVA\";\"74.9\";\"74.9\";\"O Vinho Periquita Reserva traz o requinte e riqueza das uvas e quintas portuguesas"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT OPTA TOURIGA NACIONAL\";\"64.9\";\"64.9\";\"Produtor: Opta Wines. Região: Dão"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT PRUNUS\";\"44.9\";\"44.9\";\"O Vinho Prunus Private Selection 2020 é um tinto português elegante e equilibrado"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT QUINTA DA ALORNA\";\"99.9\";\"99.9\";\"Este vinho de cor granada possui um aroma com boa integração de frutos silvestres"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT DOURO POUCA TERRA\";\"99.9\";\"99.9\";\"Um vinho maduro e vibrante"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO EA CARTUXA RESERVA\";\"114.9\";\"114.9\";\"O Vinho Cartuxa EA Tinto 2020 foi lançado pela primeira vez em 1992 e"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT BRUTALIS\";\"349.9\";\"349.9\";\"Vinho Brutalis"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT PRIMO PEGOS CLAROS\";\"349.9\";\"349.9\";\"CASTAS: Castelão (Periquita). COR: Cor rubi. AROMA: Aroma a ameixas pretas"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT PEGOS CLAROS RESERVA\";\"69.9\";\"69.9\";\"CASTAS: Castelão (Periquita). COR: Cor rubi. AROMA: Aroma a ameixas pretas"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT OBLIQUA CARMÉNERE\";\"299.9\";\"299.9\";\"“Espirito desafiante”"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO MULA VELHA\";\"39.9\";\"39.9\";\"O Mula Velha"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO BCVO MULA VELHA RESERVA\";\"44.9\";\"44.9\";\"Descrição Geral: O Vinho Tinto Português Mula Velha Reserva Magnum 1"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO BCO TAPADA DA CUNHA\";\"29.9\";\"29.9\";\"Descubra a elegância e frescura dos vinhos da Região de Lisboa! Com uma cor palha aberto e um aroma com toques de madeira"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO BCO ENCOSTAS DO NINHO\";\"34.9\";\"34.9\";\"O Vinho Verde Branco Encostas Do Minho Loureiro"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO BCO QUINTA DA ALORNA GRAN RESERVA\";\"239.9\";\"239.9\";\"Marca: Quinta da Alorna Estilo: Vinho Branco Seco Produtor: Quinta da Alorna Uva: Blend País: Portugal Região: Alentejo Volume: 750ml\";\"branco\";\"https://fibo.promokit.com.br/images/empresa/81246500-0649-11ef-aa27-fb99db8b5586.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO BCO ESPORÃO RESERVA\";\"189.9\";\"189.9\";\"Vinho Esporão Reserva Branco 750ml Vinho clássico obtido a partir de uvas da Herdade do Esporão que mostra a consistência e o caráter rico e típico dos melhores vinhos do Alentejo. Harmonização: Queijos de pasta mole"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO BRANCO CHABLIS LOUIS JADOT\";\"299.9\";\"299.9\";\"Vinho Louis Jadot Chablis 750 ml. Fundada em 1859"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"RENDEZ VOUS MERLOT CABERNET\";\"109.9\";\"109.9\";\"O Vinho Premier Rendez-Vous Merlot Cabernet Sauvignon 2020 é um rótulo oriundo da renomada região vitivinícola de Languedoc-Roussillon"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"RENDEZ VOUS PINOT NOIR\";\"109.9\";\"109.9\";\"Fresco e agradável Pinot Noir"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO POEME CABERNET SYRAH G. RES.\";\"89.9\";\"89.9\";\"De coloração rubi intensa com reflexos violáceos"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TTO MALBEC CAHORS GOUVERLANT\";\"164.9\";\"164.9\";\"Gouleyant é uma palavra francesa que indica um vinho vibrante e delicioso de se beber. Esta saborosa interpretação da uva Malbec é mais macia e mais fácil de gostar do que os vinhos clássicos de Cahors"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Château Pichon Baron Les Griffons Pauillac\";\"934.9\";\"934.9\";\"Criado em 2012"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO BRANCO LOUIS LATOUR CHARDONNAY\";\"259.9\";\"259.9\";\"A Chardonnay é uma variedade de uva nativa da Borgonha e combina perfeitamente com o terroir da região: solos pobres de margas calcárias"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"CHATEAUNEUF-DU-PAPE\";\"559.9\";\"559.9\";\"A denominação Châteauneuf-du-Pape está localizada no coração do sul do Vale do Ródano. O terroir é uma das maiores referências do vinho francês. Seu piso é feito de seixos enrolados"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO BRANCO MÂCON-LUGNY LES GENIEVRES\";\"199.9\";\"199.9\";\"Vinho Louis Latour Mâcon-Lugny “Les Genièvres” 750ml A vila de Lugny está localizada no sul da região de Mâcon. Seus brancos têm alta reputação e ajudaram a tornar a zona de Mâcon famosa. É sabido que a vila de Lugny"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"CHATEAU MARGAUX 1982\";\"16990\";\"16990\";\"Desde o século XVII"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT ORNELLAIA 1997 (Cópia)\";\"5500\";\"4485\";\"Ornellaia é uma mistura de natureza e reflexão. Solos antigos complexos conversam por meio da sabedoria humana com um microclima delicado que ecoa e se reflete no Mar Mediterrâneo. O envelhecimento prolongado acompanha o vinho fino da propriedade para atingir sua expressão máxima"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT LE CARILLON D ANGÉLUS 2012\";\"1449.9\";\"1449.9\";\"O estilo Angélus resulta da combinação de decisões ousadas sobre variedades de videiras e um terroir excepcional. É esse caráter único nascido das encostas de Saint-Emilion voltadas para o sul com sua grande proporção de Cabernet Franc"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT CHATEAU ANGELUS SAINT ÉMILLION GRAND CRU 2014\";\"5499.9\";\"5499.9\";\"Nos últimos trinta anos"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO ORUBE GARNACHA RIOJA\";\"119.9\";\"119.9\";\"Vinho Orube Crianza D.O. La Rioja 750 ml. Orube nasce no coração de La Rioja e significa solar no idioma euskera (País Vasco)"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Allegranza tempranillo 750 ml\";\"58.9\";\"58.9\";\"Os vinhos da linha Allegranza representa a alegria dos momentos mais simples"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT FLOR DE PINGUS\";\"1201.9\";\"1201.9\";\"Flor de Pingus é o magnífico segundo vinho do famosíssimo Pingus. Elaborado com uvas provenientes de vinhedos localizados no vilarejo de La Horra na Ribera del Duero"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Gran Allegranza monastrell\";\"154.99\";\"154.99\";\"Os vinhos da linha Allegranza representa a alegria dos momentos mais simples"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"MACÁN CLÁSSICO\";\"672.9\";\"672.9\";\"Um vinho que procura a harmonia voltando-se para as suas raízes. A natureza das suas origens confere-lhe uma elegância especial"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT PINTIA\";\"1259.9\";\"1259.9\";\"As Bodegas Pintia está localizada nas margens do rio Douro"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Vega Sicilia Ribera del Duero DO Valbuena 5° 2018\";\"2690.9\";\"2690.9\";\"Um dos grandes ícones do vinho espanhol"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VIÑA TONDONIA GRAN RESERVA\";\"609.9\";\"609.9\";\"O Vina Tondonia Gran Reserva Tinto"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO SOLAR VIEJO TREMPANILHO 2022\";\"44.9\";\"44.9\";\"Vinho Tinto Solar Viejo Tempranillo 750 ml. Com mais de 75 anos de história"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO ORUBE CRIANZA RIOJA 1"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"I LOVE MERLOT I HEART WINES\";\"33.9\";\"33.9\";\"Tinto elaborado exclusivamente a partir de Merlot"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Vinho Tinto Espanhol Petit Vervm Garnacha\";\"63.9\";\"63.9\";\"Sob a filosofia de sustentabilidade e preservação nasce este Garnacha"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Vinho tinto sherazade\";\"169.9\";\"169.9\";\"Sherazade"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"ESTEBAN MARTIN ROSADO\";\"49.9\";\"29.9\";\"Um vinho elaborado através de um belnd diferente"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT MARQUES DE CARCERES RESERVA\";\"187.9\";\"187.9\";\"Marques De Caceres Reserva Tinto 750 Ml é um vinho tinto espanhol composto por 85% Tempranillo"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT MARQUES DE CARCERES GRAN RESERVA\";\"329.9\";\"329.9\";\"Marques De Caceres Reserva Tinto 750 Ml é um vinho tinto espanhol composto por 85% Tempranillo"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO BCO LOCO BARBER\";\"39.9\";\"24.9\";\"Um vinho muito especial de uma bela cor pálida"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT GAUDIUM\";\"547.9\";\"547.9\";\"Cor vermelha rubi escura e densa. Bouquet intenso e complexo com aromas vivos que adicionam um toque de delicadeza. Notas de amoras e groselhas negras se abrem na boca"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT LA GARGANTILHA\";\"289.9\";\"289.9\";\"Este vinho é um regresso às origens da nossa amada terra"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"CARNIVOR CABERNET SAUVIGNON\";\"79.9\";\"79.9\";\"Elaborado com a Cabernet Sauvignon"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT CAYMUS BONUNDRUM RED\";\"499.9\";\"499.9\";\"Com a mesma filosofia de combinar várias uvas diferentes para criar um vinho único e sem similar \"\"consagrada décadas atrás por Wagner em seu famoso branco Conundrum\"\" o enólogo usou diversas uvas tintas da Califórnia para criar um corte secreto"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT OPUS ONE 2017\";\"5425.9\";\"5425.9\";\"A safra de 2017 de um dos mais famosos e cobiçados vinhos do mundo está simplesmente espetacular"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO ROBERT MONDAVI\";\"102.9\";\"102.9\";\"Foi o maior símbolo da vitivinicultura americana. fundou sua vinícola em 1966 na Califórnia"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"ROBERT MONDAVI CABERNET SAUVIGNON\";\"102.9\";\"102.9\";\"Este Cabernet Sauvignon é elaborado com uvas de Monterey colhidas no auge da maturação de vinhas costeiras. Parte do vinho passa por envelhecimento em carvalho americano virgem e outra parte é envelhecida em barris de ex-bourbon. Os barris novos conferem notas tostadas e os usados aportam toques de baunilha e ervas secas"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Vinho tinto Donati\";\"306.9\";\"306.9\";\"Vinho elaborado em umas das mais conceituadas vinícolas dos Estados Unidos"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO COPPOLLA ROSSO E BIANCO SHIRAZ\";\"159.9\";\"159.9\";\"Rosso é feito a partir de uma mistura de Zinfandel"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"CAYMUS VINEYARDS ZINFANDEL\";\"759.9\";\"759.9\";\"De minúscula produção"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"MENAGE A TROIS LIMELIGHT PINOT GRIGIO\";\"104.9\";\"99.9\";\"Fruto da paixão de um casal de arquitetos"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"HARDYS stamp shiraz cabernet\";\"59.9\";\"59.9\";\"Vinho Hardys Stamp Shiraz Cabernet Sauvignon. Este vinho tinto foi desenvolvido com a máxima qualidade para agradar a todos os paladares sofisticados e exigentes. Ideal para acompanhar churrascos e carnes com molho condimentado.\";\"tinto\";\"https://fibo.promokit.com.br/images/empresa/26b5d410-1232-11ef-8cdc-fbc251e7462d.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"TOURNON CHARDONNAY LANDSBOROUGH 2020\";\"177.9\";\"177.9\";\"Cor dourada pálida com notas verdes. O nariz é uma combinação de pêra"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"TOURNON PYRENEES SHIRAZ\";\"139.9\";\"139.9\";\"Cor dourada pálida com notas verdes. O nariz é uma combinação de pêra"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Vinho Australiano Tinto Seco Penfolds Koonunga Hill Shiraz\";\"153.9\";\"153.9\";\"Maceração pré-fermentativa a frio; fermentação alcoólica em tanques de aço inox com controle de temperatura.\";\"tinto\";\"https://fibo.promokit.com.br/images/empresa/52489820-0cc3-11ef-a88d-9fc268a4c69b.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Pueblo sol tannat 750 ml\";\"22.9\";\"22.9\";\"No paladar"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO BCO MATAOJO TOURIGA NACIONAL ROSADO\";\"89.9\";\"89.9\";\"A uva Touriga Nacional é originalmente uma casta portuguesa tinta"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"CHATEAAU KSARA\";\"178.9\";\"178.9\";\"Château Ksara é a vinícola mais antiga do Líbano. Fundada em 1857 por monges jesuítas"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO ISR GAMLA CABERNET SAUVIGNON TTO 750 ML\";\"189.9\";\"189.9\";\"Vinhos divertidos para um perfil jovem que quer escolher a uva e opta por uma origem inusitada. Feito exclusivamente com uvas cultivadas em alta altitude"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO ISR GAMLA PINOT NOIR TTO 750 ML\";\"189.9\";\"189.9\";\"Vinhos divertidos para um perfil jovem que quer escolher a uva e opta por uma origem inusitada. Feito exclusivamente com uvas cultivadas em alta altitude"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO ISR GAMLA SYRAH TTO 750 ML\";\"189.9\";\"189.9\";\"Vinhos divertidos para um perfil jovem que quer escolher a uva e opta por uma origem inusitada. Feito exclusivamente com uvas cultivadas em alta altitude"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"CASA PERINE BRUT ROSE\";\"44.9\";\"44.9\";\"Espumante de coloração rosada cereja que se torna vibrante pelo intenso perlage na taça. Seus aromas tem nuances de frutas vermelhas frescas como framboesa e cereja. Seu sabor é frutado e fresco com final agradavelmente marcante.\";\"rose\";\"https://fibo.promokit.com.br/images/empresa/14d2c920-0d5e-11ef-9219-ef5002da961a.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"CASA VALDUGA extra Brut\";\"79.9\";\"79.9\";\"Espumante Casa Valduga Premium Extra Brut 750 ml Elaborado a partir das variedades Chardonnay e Pinot Noir através do Método Tradicional - refermentação em garrafa - permaneceu 24 meses nas caves subterrâneas maturando sobre leveduras.\";\"espumante\";\"https://fibo.promokit.com.br/images/empresa/10e004f0-0d7b-11ef-9983-bdb72ad3892c.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"ESPUMANTE 130 ANOS BRUT BLANC DE BLANC 750ML\";\"169.9\";\"169.9\";\"Elaborado exclusivamente com uvas Chardonnay de safras especiais"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"ESPUMANTE AURORA 0"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"ESPUMANTE CASA VALDUGA 130 BRUT ROSE\";\"137.9\";\"137.9\";\"Luminoso"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"ESPUMANTE CASA VALDUGA NATURE PREMIUM\";\"79.9\";\"79.9\";\"Espumante único elaborado com as seletas uvas Chardonnay e Pinot Noir"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"ESPUMANTE CASA VALDUGA PREMIUM MOSCATEL\";\"79.9\";\"79.9\";\"Experimente o Espumante Casa Valduga Premivm Moscatel e surpreenda-se com seu aroma e sabor únicos. Elaborado com uvas selecionadas através do método Asti"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"ESPUMANTE CASA VALDUGA ROSE\";\"69.9\";\"69.9\";\"Em boca é elegante e refrescante"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"ESPUMANTE MOSCATO FREIXENET ASTI D.O.C.G. 750ML\";\"94.9\";\"94.9\";\"Espumante Moscato Freixenet Asti DOCG 750ml. Freixenet Asti D.O.C.G. é um espumante doce"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"FREIXENET CORDON NEGRO 200 ML\";\"26.9\";\"26.9\";\"DESCRIÇÃO Espumante Freixenet Cava Cordon Negro Brut 200 ml. Lançado originalmente em 1974"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"FREIXENET CORDON NEGRO BRUT 750ML\";\"64.9\";\"64.9\";\"Cava Freixenet Cordon Negro Brut. Cava leve muito apreciado por seu grande frescor. O elevado teor da uva Parellada no coupage e a fermentação com temperatura controlada de 12ºC lhe conferem aromas finos e intensos"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"FREIXENET ICE BRANCA\";\"69.9\";\"69.9\";\"Espumante Freixenet Ice Branco 750ml Semi Seco Como todo tradicional Cava"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"FREIXENET ICE ROSE\";\"69.9\";\"69.9\";\"Perfeita com queijos suaves e sobremesas saborosas. E o segredo de sua excelência também está no processo de fermentação: uma cuidadosa primeira etapa em cubas de inox sob temperatura controlada"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"FRIXENET PINOT GRIGIO\";\"68.9\";\"68.9\";\"Vinho Freixenet Pinot Grigio DOC. O vinho Freixenet Pinot Grigio DOC é um elegante vinho branco feito com as melhores uvas da pitoresca região de Garda"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"ESPUMANTE CHANDON DEMI SEC\";\"89.9\";\"79.9\";\"Espumante Chandon Riche Demi-Sec 750 ml De Garibaldi na tradicional região produtora da Serra Gaúcha"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"CASA PERINE BRUT\";\"44.9\";\"44.9\";\"Elaborado com as uvas moscatéis da região da Indicação de Procedência da Farroupilha"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Espumante Monte Paschoal\";\"29.9\";\"29.9\";\"Descubra o sabor sofisticado do Espumante Monte Paschoal Brut. Um vinho brasileiro de alta qualidade produzido com as variedades de uvas Chardonnay e Pinot Noir. Com aromas frutados e paladar cremoso"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Casa Valduga arte Tradição\";\"69.9\";\"69.9\";\"Espumante Casa Valduga Arte Brut 750 ml. Elaborado pelo método Champenoise e maturado em caves subterrâneas"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Espumante Rondel brut\";\"30.9\";\"30.9\";\"Gran vista"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"ESPUMANTE LA ROCHE BRUT\";\"39.9\";\"38.9\";\"O Espumante Francês La Roche Demi Sec Branco oferece um encantador tom amarelo-palha e aromas frutados e cítricos. Com corpo leve e acidez equilibrada"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"FREIXENET ICE BRANCA 200 ml\";\"28.9\";\"28.9\";\"Espumante Freixenet Ice Branco 200 ml Semi Seco Como todo tradicional Cava"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"CASA PERINE MOSCATEL\";\"44.9\";\"44.9\";\"Elaborado com as uvas moscatéis da região da Indicação de Procedência da Farroupilha"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"CHAMPAGNE MOET NECTAR IMPERIAL\";\"399.9\";\"399.9\";\"Champagne Moët & Chandon Nectar Impérial 750ml Conhecida por suas conquistas"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"CHAMPAGNE TAITTINGER PRESTIGE 750 ML\";\"499.9\";\"499.9\";\"A paixão pelo vinho fez com que Pierre Taittinger descobrisse os vinhedos de champagne durante a primeira guerra mundial e anos depois criasse o Champagne Taittinger Brut Millésimé"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"CHAMPGNE RUIMART BLANC DE BLANC\";\"699.9\";\"699.9\";\"A maison mais antiga de Champagne"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"CHAMPAGNE CHANDON GARDEN SPRITZ\";\"89.9\";\"89.9\";\"Caracteriza-se por sua delicada cor amarela com reflexos dourados"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"WHISKY JOHNNIE WALKER BLUE LABEL l 750 ml\";\"1449.9\";\"1449.9\";\"BLUE LABEL é o ápice dos whiskies da Casa de Walker – a epítome da arte de preparar blends. Criado para refletir o estilo dos whiskies do início do século 19"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"WISKY MACALLAN 15 ANOS DOUBLE CASK\";\"1390.9\";\"1390.9\";\"Whisky Macallan 15 anos - Double Cask 700ml. A linha Double Cask de Macallan"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"WHISKEY BUFFALO TRACE 750ML\";\"189.9\";\"149.9\";\"Whisky Buffalo Trace Bourbon 750 ml. O Buffalo Trace é um whisky bourbon premiado"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"WHISKEY MACALLAN NIGHT ON EARTH\";\"1708.9\";\"1708.9\";\"WHISKY MACALLAN NIGHT ON EARTH 700 ML Propósito o presente perfeito para novos consumidores de whisky e que são apaixonados por produtos de luxo assim como consumidores habituais de whisky que querem continuar aumentando sua coleção. Para a temporada de 23 24 a The Macallan colaborou com a aclamada artista chinesa Nini Sum"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"WHISKY DEWARS 18 ANOS\";\"649.9\";\"649.9\";\"Um whisky rico e inigualável. Suave e cremoso. Nós só usamos os melhores maltes de 18 anos da Escócia para formar esse inigualável Blended de whiskies. A expressão de 18 anos de Dewar Blended Scotch é primeiro envelhecido em carvalho americano antes de ser misturada e recarregados em um tonel de carvalho estar descansado por um período prolongado de tempo. Isso permite que todos os sabores se casar com seus sabores complexos e nuances antes de ser engarrafado.\";\"whisky\";\"https://fibo.promokit.com.br/images/empresa/59937890-1789-11ef-a9ef-4d1b925e88ef.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"WHISKY DOUBLE BLACK\";\"259.9\";\"259.9\";\"Diferentemente do Black Label Clássico (12 anos)"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"WHISKY GRAND OLD PARR 12 ANOS 1 LITRO\";\"139.9\";\"139.9\";\"Whisky Old Parr 12 anos 1 LITRO O Old Parr 12 Anos é um whisky escocês bastante renomado"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"WHISKY HIBIKI HARMONY JAPANESE\";\"649.9\";\"649.9\";\"Cor: âmbar Olfato: rosa"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Whisky Jura Seven Wood 700 ml\";\"459.9\";\"459.9\";\"Os barris de bourbon cheios pela primeira vez e os barris de vinho francês de seis regiões diferentes trabalham no Jura Seven Wood"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Whisky Laphroaig Quarter Cask 750 ml\";\"669.9\";\"669.9\";\"É o Single Malt mais vendido de Islay e o preferido do Príncipe Charles"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Whisky Maker's Mark Bourbon\";\"169.9\";\"169.9\";\"Whisky Maker's Mark Bourbon 750 ml. Com coloração âmbar"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"WHISKY ROYAL SALUTE 21 ANOS EDIÇÃO II ROSAS\";\"999.9\";\"999.9\";\"Royal Salute The Richard Quinn Edition II - Orange Flower"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Whisky Suntory The Chita 700ml\";\"579.9\";\"579.9\";\"WHISKY SUNTORY THE CHITA 700ML O Whiskey The Chita Suntory possui um aroma de creme brulée"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"WHISKY WHITE HORSE 700 ml\";\"89.9\";\"89.9\";\"Whisky White Horse É composto por mais de 35 maltes"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"CHIVAS REGAL 18 ANOS\";\"389.9\";\"389.9\";\"Whisky Chivas Regal 18 anos 750 ml Lançado em 1997"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"WHISKY MARKER´S 750 KENTUCKY\";\"164.9\";\"164.9\";\"Whisky Maker's Mark Bourbon 750 ml. Com coloração âmbar"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"WHISKY JIM BEAM HONEY\";\"94.9\";\"94.9\";\"Jim Beam® Honey abre um novo capítulo na legendária história de Jim Beam"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"JOHNNIE WALKER BLONDE\";\"105.9\";\"105.9\";\"Whisky Johnnie Walker Blonde 750 ml. Johnnie Walker Blonde é mais suave e doce do que outros uísques"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Green Label 750 ml\";\"534.9\";\"534.9\";\"Green Label é o quinto Whisky lançado por Johnnie Walker em 200 anos e é o único composto apenas por maltes"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"WHISKY DEWARS 12 ANOS\";\"119.9\";\"119.9\";\"Apresentamos o Whisky Dewars 12 Anos 750ml! O Whisky Dewars 12 Anos é uma verdadeira obra-prima escocesa"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"WHISKY JIM BEAM APLLE\";\"94.9\";\"94.9\";\"Jim Beam® Honey abre um novo capítulo na legendária história de Jim Beam"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"WHISKY YANAZAKI SNGLE MALT JAPANESE 12 ANOS\";\"1199.9\";\"1199.9\";\"A destilaria Yamazaki situa-se junto à localidade de Shimamoto"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"LICOR AMARULA 750 ML\";\"99.9\";\"99.9\";\"Licor importado da África"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"LICOR 43 ORIGINAL\";\"139.9\";\"139.9\";\"Licor à base de 43 frutas cítricas e ervas aromáticas indígenas que adicionam mistério e sabor nos mais variados drinques.\";\"outro\";\"https://fibo.promokit.com.br/images/empresa/6fe1a870-fc35-11ee-8518-e5e7a54d9313.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"LICOR BALLENA ORIGINAL\";\"139.9\";\"139.9\";\"Licor Ballena o drink do momento.. Em 1905"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"LICOR KAPPUTZ CAPOEIRA COCO\";\"56.9\";\"56.9\";\"Pronto para beber"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"LICOR MAISON CONTREAU\";\"139.9\";\"139.9\";\"Cointreau é um licor icônico"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"LICOR MOZART CHOCOLATE CREAM\";\"181.9\";\"181.9\";\"O Mozart Chocolate Cream é um licor cremoso de chocolate produzido com o melhor chocolate belga"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"LICOR MOZART CHOCOLATE DARK\";\"181.9\";\"181.9\";\"Mozart Dark Chocolate é uma evolução ao paladar dos consumidores de chocolates. A combinação perfeita entre o chocolate amargo 87% (Trinitário e Forastero – vindos do Oeste da África)"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VILLA MASSA AMARETTO\";\"161.9\";\"161.9\";\"Licor Italiano de Amêndoas Amaretto Villa Massa 700ml Um licor de amêndoas provenientes da Sicília"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"LICOR BAILEYS 750 ML\";\"139.9\";\"139.9\";\"Licor Baileys Original 750 ml. BAILEYS Orginal Irish Cream foi lançado no mercado na cidade de Dublin"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"LICOR DON LUIZ\";\"69.9\";\"69.9\";\"Licor Don Luiz Dulce de Leche Cream 750 ml. Coquetel alcoólico don luiz dulce de leche cream 750ML O Don Luiz Cream é um Coquetel alcoólico à base de doce de leite com o aroma da fava de baunilha"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"CAMPARI NEGRONI\";\"109.9\";\"109.9\";\"Produto pronto para beber"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"CAPUEIRA GIN 950 ML\";\"49.9\";\"49.9\";\"O Capueira GIN é um london dry gin"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"GIN GORDON´S ORIGINAL\";\"83.9\";\"83.9\";\"Gin Gordon's Sicilian Lemon 700ml. Feito com sabores 100% naturais"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"GIN TANQUERAY LONDON DRY GIN\";\"129.9\";\"129.9\";\"Gin Tanqueray Dry 750 ml. Gin inglês para o mais apurado paladar"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"GYN BEEFEATER LONDON dry Gin\";\"89.99\";\"89.99\";\"O Beefeater London Dry tem um sabor extremamente puro"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"GYN BOMBAY BRAMBLE CLACKBERRY 700ML\";\"142.9\";\"142.9\";\"O gin Bombay Sapphire leva o nome da Estrela de Bombaim"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"TANQUERAY N° TEN\";\"219.9\";\"219.9\";\"Tanqueray é um gin claro com sabor picante"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"TEQUILA 1800 MILENIO 700 ML\";\"1200\";\"999.9\";\"Tequila 1800 Milenio 700 ml Após um longo e estruturado processo de envelhecimento"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"JOSE CUERVO TRADICIONAL TEQUILA REPOSADO\";\"173.9\";\"173.9\";\"Tequila José Cuervo Tradicional 750 ml. É reflexo de um processo artesanal que resulta em um paciente repouso em barris de madeira americana"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"TEKILA MAESTRO DOBEL DIAMANTE\";\"321.9\";\"321.9\";\"É o resultado de uma mistura de tequilas envelhecidas e reposadas. Adquire o seu sabor e profundidade em carvalho branco da Europa de Leste com origem tostada. Seu timbre é resultado de dupla filtragem através de finos cristais e traz a assinatura do Maestro Tequilero. Maestro Tequilero Dobel Diamante.\";\"branco\";\"https://fibo.promokit.com.br/images/empresa/e77ecb90-0a51-11ef-a367-cdc92a7cba30.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"TEQUILA 1800 CRISTALINO\";\"354.9\";\"354.9\";\"A 1800 Cristalino é envelhecida por 14 meses em barris de carvalho francês e 6 meses em barris de vinho do porto sendo filtrada posteriormente em carvão para retirada das notas mais amargas e cores absorvidas durante o envelhecimento. Cristalino é uma nova CATEGORIA de tequila"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"TEQUILA MEX 1800 ANEJO\";\"322.9\";\"322.9\";\"Tequila 1800 Añejo 750 ml. É o resultado da mais apurada técnica de envelhecimento de tequilas 100% Agave. Seu rico e intenso sabor vem do seu envelhecimento de"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"TEKILA JOSÉ CUERVO OURO\";\"119.9\";\"119.9\";\"Tequila José Cuervo Ouro 750 ml. É o resultado da combinação de Tequilas “Jovens”"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"TEKILA JOSE CUERVO PRATA\";\"119.9\";\"119.9\";\"Tequila José Cuervo Prata Silver 750 ml. Foi introduzida no mercado em 2003"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VODKA ABSOLUT 1 LITRO\";\"79.9\";\"79.9\";\"A Absolut Vodka de 1L é uma vodka sueca feita exclusivamente a partir de ingredientes naturais encontrados exclusivamente em Ähus na Suécia"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VODKA SMIRNOFF 990\";\"41.99\";\"41.99\";\"Vodka Smirnoff 998 ml Smirnoff com nova garrafa: design moderno e diferenciado"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"HAKU VODKA\";\"196.9\";\"196.9\";\"Vodka Haku 700ml. Vodka japonesa haku 700ml - Beam Suntury Hakué a vodka artesanal japonesa da Houseof Suntory. A Suntory produz vodka desde 1956 e Haku representa a filosofia de artesanato da Suntory"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VODKA GREY GOOSE L´CITRON\";\"149.9\";\"149.9\";\"Vodka francesa eleita por especialistas como a vodka de melhor sabor do mundo. A produção de Grey Goose começa com trigo 100% puro proveniente da região francesa de La Beauce. Um processo de destilação de cinco etapas garante a elaboração de uma vodka mais suave"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VODKA IGNITE PREMIUM\";\"99.9\";\"99.9\";\"Vodka Ignite 750ml A Vodka Ignite redefine o conceito de excelência no segmento de destilados premium. Produzida 100% a partir de milho"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VERMOUTH CARPANO DRY\";\"109.9\";\"109.9\";\"Vermouth Carpano Dry 1000 ml. O Carpano Dry é o mais novo vermute da marca italiana desde 1786. Teve seu reconhecimento mundial"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VERMOUTH CARPANO PUNT E MES\";\"129.9\";\"129.9\";\"Vermouth Carpano Punt e Mes 1000 ml - Itália. Bebida foi criada em 1870"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"MARTINI ROSATO\";\"53.9\";\"53.9\";\"Martini Rosato. Bebida composta de vinho rosado e vermute doce. Lançado em 1980"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"MARTINI BIANCO\";\"56.9\";\"56.9\";\"Martini Bianco. Bebida composta de vinho branco e ervas aromáticas. Produzida desde 1910"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"MARTINI EXTRA DRY\";\"56.9\";\"56.9\";\"Martini Extra Dry. Bebida composta de vinho branco e vermute seco. Comercializado desde 1900"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"CONHAQUE REMY MARTIN 700ML\";\"443.9\";\"443.9\";\"Conhaque Rémy Martin Cognac V.S.O.P. 700 ml. A história de Rémy Martin tem início há quase 3 séculos. Com determinação"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"CACHAÇA ORIZONA GOLD BLACK 700 ML\";\"189.9\";\"189.9\";\"A Cachaça Orizona Gold Black é destilada em alambiques de cobre"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"FIU FIU POMAR\";\"44.99\";\"44.99\";\"Em busca de sabores inéditos para este fim de ano"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"FIU FIU ABACAXI COM HORTELÃ\";\"44.99\";\"44.99\";\"A Fiu-Fiu é uma bebida alcoólica saborizada de menor graduação alcóolica (28% vol)"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"FIU FIU TANGERINA COM ACEROLA\";\"44.9\";\"44.9\";\"Feita de álcool de cana hidratado e aromatizada naturalmente é uma bebida refrescante"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"ANGUSTURA BITTERS 100 ml\";\"149.9\";\"149.9\";\"Bitter Angostura Aromatic 200ml Feito com uma receita secreta desde 1824"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TT ESTEVA DOURO\";\"94.9\";\"94.9\";\"Esteva é um vinho tinto do Douro atrativo e elegante"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO PORTO 10 YEARS\";\"239.9\";\"239.9\";\"Elaborado com as melhores castas portuguesas cultivadas no Alto Douro"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO BRANCO SAINT FELICIEN SÉMILLON DOUX 500 ML\";\"227.9\";\"227.9\";\"Este delicioso vinho de sobremesa é elaborado em pequena quantidade com as uvas Semillón plantadas em altitude elevada e colhidas tardiamente para concentrar açúcar. Combina exuberantes notas de mel e alcaçuz com um ótimo frescor! Um verdadeiro achado entre os vinhos doces do hemisfério sul.\";\"branco\";\"https://fibo.promokit.com.br/images/empresa/48557330-033e-11ef-ab01-eb31e66d3d14.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO TINTO BARBADILLO\";\"159.9\";\"159.9\";\"VINHO TINOloroso quer dizer perfumado em espanhol e é uma referência aos deliciosos e fragrantes aromas que este vinho possui. O Barbadillo Oloroso Sherry é um vinho de coloração escura elaborado por meio de oxidação por vários anos em barricas. Tem aroma intenso de frutas e flores secas"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO DO PORTO RUBY BURMESTER\";\"69.9\";\"69.9\";\"Burmester Ruby Porto é jovem"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Vinho do Porto Taylor 20\";\"546.9\";\"546.9\";\"Visual: Intensa cor âmbar- aloirada. Aroma: Nariz opulento e voluptuoso de complexas especiarias"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO DO PORTO TAYLOR 30\";\"1119.9\";\"1119.9\";\"Vinho Taylors Porto 30 Anos 750 ml. Um vinho com aromas complexos e delicados"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Vinho do Porto Tokaji aszu 5\";\"272.9\";\"272.9\";\"Vinho Patricius Tokaji Aszu 5 Puttonyos 500ml O Vinho Patricius Tokaji Aszú 5 Puttonyos possui uma receita única e histórica que revela seus melhores sabores e aromas"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"vinho do Porto Valduro 10 port\";\"239.9\";\"239.9\";\"Elaborado com as melhores castas portuguesas cultivadas no Alto Douro"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Vinho do Porto Croft\";\"279.9\";\"279.9\";\"Elaborado com as melhores castas portuguesas cultivadas no Alto Douro"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO DO PORTO BURMESTER TAWNY\";\"69.9\";\"69.9\";\"Vinho do Porto Tawny com aromas mesclados de frutas maduras e secas"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO DO PORTO BURMESTER 10\";\"139.9\";\"139.9\";\"Avelã"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO DO PORTO BURMESTER 20\";\"259.9\";\"259.9\";\"Comentário do Sommelier Um Porto Tawny de 20 anos de idade opulento"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO DO PORTO BURMESTER 30\";\"399.9\";\"399.9\";\"O Porto Burmester 30 years Old Tawny foi elaborado a partir de vinhos de colheitas de diversos anos para garantir a complementariedade dos aromas e sabores. O estágio dos lotes em cascos de carvalho ocorreu em tempos variados"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO EA CARTUXA TINTO 1"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Água Prata c gás\";\"3.99\";\"3.99\";\"Água prata sem gás\";\"outro\";\"https://fibo.promokit.com.br/images/empresa/3e03b010-17a0-11ef-a98f-19dff33f8b63.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Água Prata s gás\";\"3.5\";\"3.5\";\"Água prata sem gás\";\"outro\";\"https://fibo.promokit.com.br/images/empresa/e134f2f0-179e-11ef-8724-2db0f4910d23.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"SUCO DEL VALLE MARACUJA\";\"7.99\";\"7.99\";\"SUCO DEL VALLE\";\"outro\";\"https://fibo.promokit.com.br/images/empresa/cc9f23e0-1787-11ef-8724-2db0f4910d23.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"SUCO DEL VALLE PESSEGO\";\"7.99\";\"7.99\";\"SUCO DEL VALLE\";\"outro\";\"https://fibo.promokit.com.br/images/empresa/ff572620-1787-11ef-a1d9-8b254d0d70f6.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"SUCO DEL VALLE CAJU\";\"7.49\";\"7.49\";\"SUCO DEL VALLE\";\"outro\";\"https://fibo.promokit.com.br/images/empresa/2b07fe70-1788-11ef-8aee-45510aa03086.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"SUCO DEL VALLE ABACAXI\";\"7.49\";\"7.49\";\"SUCO DEL VALLE\";\"outro\";\"https://fibo.promokit.com.br/images/empresa/562ac790-1788-11ef-98d9-313f53a6b5d4.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"SUCO DEL VALLE LARANJA\";\"7.49\";\"7.49\";\"SUCO DEL VALLE\";\"outro\";\"https://fibo.promokit.com.br/images/empresa/89959f10-1788-11ef-8aee-45510aa03086.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"SUCO LA FRUIT LARANJA\";\"7.99\";\"7.99\";\"SUCO LA FRUIT LARANJA\";\"outro\";\"https://fibo.promokit.com.br/images/empresa/6ae138a0-178c-11ef-9cbe-9bb93a594c79.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"SUCO LA FRUIT GOIABA\";\"7.99\";\"7.99\";\"SUCO LA FRUIT GOIABA\";\"outro\";\"https://fibo.promokit.com.br/images/empresa/cddb68e0-1791-11ef-a1a2-a1b8859521cc.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"SUCO LA FRUIT MARACUJA\";\"7.99\";\"7.99\";\"SUCO LA FRUIT MARACUJA\";\"outro\";\"https://fibo.promokit.com.br/images/empresa/3507ea70-1792-11ef-a9ef-4d1b925e88ef.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"SUCO LA FRUIT PESSEGO\";\"7.99\";\"7.99\";\"SUCO LA FRUIT PESSEGO\";\"outro\";\"https://fibo.promokit.com.br/images/empresa/2c1f12c0-1793-11ef-82e5-cd804aa09a10.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"SUCO LA FRUIT UVA\";\"7.99\";\"7.99\";\"SUCO LA FRUIT UVA\";\"outro\";\"https://fibo.promokit.com.br/images/empresa/62dc97b0-1793-11ef-af1c-053f7e683eee.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"SUCO LA FRUIT UVA integral\";\"9.99\";\"9.99\";\"SUCO LA FRUIT UVA\";\"outro\";\"https://fibo.promokit.com.br/images/empresa/9ee11270-17b3-11ef-a1a2-a1b8859521cc.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Suco Honest Morango com Limão 900 ml\";\"13.9\";\"13.9\";\"Suco Honest morango com Limão\";\"outro\";\"https://fibo.promokit.com.br/images/empresa/72b80770-17b4-11ef-a98f-19dff33f8b63.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Suco honest de Maracujá 900 ml\";\"14.99\";\"14.99\";\"Suco Honest Maracujá\";\"outro\";\"https://fibo.promokit.com.br/images/empresa/ac9e43a0-17b4-11ef-98d9-313f53a6b5d4.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Suco honest Acerola 900 ml\";\"13.9\";\"13.9\";\"suco honest Acerola\";\"outro\";\"https://fibo.promokit.com.br/images/empresa/376378c0-17b5-11ef-b42e-e9d223180abe.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Suco Honest morango com Maracujá\";\"13.9\";\"13.9\";\"Suco honest morango com Maracujá\";\"outro\";\"https://fibo.promokit.com.br/images/empresa/86b73dd0-17b5-11ef-827c-e7e54e22d579.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Suco Honest frutas vermelhas 900 ml\";\"17.9\";\"17.9\";\"Suco honest frutas vermelhas\";\"outro\";\"https://fibo.promokit.com.br/images/empresa/e3a27910-17b5-11ef-a9ef-4d1b925e88ef.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Suco Prats laranja integral 900 ML\";\"14.99\";\"14.99\";\"Suco integral Prats\";\"outro\";\"https://fibo.promokit.com.br/images/empresa/8e790fc0-17b6-11ef-b42e-e9d223180abe.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Suco Prats de uva integral 900 ml\";\"18.99\";\"18.99\";\"Suco integral Prats\";\"outro\";\"https://fibo.promokit.com.br/images/empresa/05264470-17b8-11ef-82e5-cd804aa09a10.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"SUCO TINTO DE UVA CASA MADEIRA 1 LITRO\";\"22.9\";\"22.9\";\"SUCO TINTO DE UVA CASA MADEIRA 1 LITRO\";\"tinto\";\"https://fibo.promokit.com.br/images/empresa/ece8f260-17ba-11ef-8724-2db0f4910d23.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Coca cola 2 l\";\"11.9\";\"11.9\";\"Coca cola\";\"outro\";\"https://fibo.promokit.com.br/images/empresa/8623cee0-179e-11ef-a98f-19dff33f8b63.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Coca cola 2 l zero\";\"11.9\";\"11.9\";\"Coca cola\";\"outro\";\"https://fibo.promokit.com.br/images/empresa/69141390-17a9-11ef-827c-e7e54e22d579.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Guaraná Antartica lata\";\"3.99\";\"3.99\";\"Guaraná Antartica\";\"outro\";\"https://fibo.promokit.com.br/images/empresa/a4aa4ce0-17ad-11ef-8724-2db0f4910d23.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Guaraná Antartica lata zero açúcar\";\"3.99\";\"3.99\";\"Guaraná Antartica\";\"outro\";\"https://fibo.promokit.com.br/images/empresa/f4937420-17ad-11ef-af1c-053f7e683eee.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Fanta laranja lata\";\"3.5\";\"3.5\";\"Fanta lata\";\"outro\";\"https://fibo.promokit.com.br/images/empresa/345ea160-17ae-11ef-bc4c-2f7dd64e22b8.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Pepsi lata zero\";\"2.99\";\"2.99\";\"Refrigerante lata Pepsi\";\"outro\";\"https://fibo.promokit.com.br/images/empresa/e2c1d9e0-17b1-11ef-b42e-e9d223180abe.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Shweppes lata\";\"4\";\"4\";\"Schweppes Lata\";\"outro\";\"https://fibo.promokit.com.br/images/empresa/06fbe110-17b3-11ef-827c-e7e54e22d579.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"ST PIERRE PINK LEMONADE\";\"5.9\";\"5.9\";\"As framboesas de sua composição proporcionam um sabor bem original"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Energetico Extra Power 2 litros\";\"15.9\";\"15.9\";\"energético Extra Power\";\"outro\";\"https://fibo.promokit.com.br/images/empresa/72c0ba00-2b3c-11ef-908f-89b43925adb9.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"CHIPS BRUSCHETTE\";\"9.9\";\"9.9\";\"CHIPS\";\"outro\";\"https://fibo.promokit.com.br/images/empresa/8cf15af0-178d-11ef-bc4c-2f7dd64e22b8.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"GRISSINE TOMATE SECO\";\"8.9\";\"8.9\";\"CHIPS\";\"outro\";\"https://fibo.promokit.com.br/images/empresa/12d3ccc0-178e-11ef-8aee-45510aa03086.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"FARINHA PANKO 1 KG\";\"23.9\";\"23.9\";\"FARINHA PANKO PARA EMPANADOS Origem: Brasil. Peso Liquido: 1Kg Ingredientes: Farinha de trigo fortificada com ferro e ácido fólico"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"Azeite De Cecco extra virgem\";\"42.9\";\"42.9\";\"Azeite Extravirgem De Cecco Gli Esclusivi 250 ML. O azeite de oliva extra virgem Gli Esclusivi vem da seleção de óleos superiores italianos. Sabor frutado fresco"
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"DV CATENA CHARDONNAY CHARDONNAY\";\"192.9\";\"192.9\";\"DV Catena é fruto do equilíbrio encontrado através de um blend da mesma uva plantada em diferentes vinhedos da família Catena em Mendoza. Neste DV Catena Chardonnay-Chardonnay temos uvas provenientes do vinhedo La Pirámide que aportam aromas de frutas maduras como abacaxi e pêssego e uvas provenientes do vinhedo Domingo que aportam aromas cítricos e minerais. Este Chardonnay é intenso e elegante. Na boca é untuoso com um final prolongado e fresco.\";\"outro\";\"https://fibo.promokit.com.br/images/empresa/d94b54a0-04e5-11f0-a1a6-53991233a4a3.png\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"ENERGETICO RED BULL 250 ML\";\"10.9\";\"10.9\";\"\";\"outro\";\"\""
+  },
+  {
+    "nome;precoNormal;precoPromo;desc;categoria;img": "\"VINHO VERDE AMARANTE ALVARINHO\";\"44.9\";\"44.9\";\"Vinho Verde de costas selecionadas"
   }
 ]
