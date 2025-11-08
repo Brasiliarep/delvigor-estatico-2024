@@ -1,0 +1,5 @@
+[
+  {"id":1,"nome":"SSD NVMe 1 TB","preco":"R$ 499","img":"https://i.imgur.com/abc123.jpg","desc":"Leitura 3500 MB/s"},
+  {"id":2,"nome":"RTX 4060 Ti","preco":"R$ 2.199","img":"https://i.imgur.com/def456.jpg","desc":"8 GB GDDR6"},
+  {"id":3,"nome":"Ryzen 7 7800X3D","preco":"R$ 2.999","img":"https://i.imgur.com/ghi789.jpg","desc":"8 núcleos, 3D V-Cache"}
+]
